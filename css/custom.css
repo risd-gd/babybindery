@@ -1,19 +1,21 @@
 body{
-/* color: red;
-  background: blue; */
+/* color: red; */
+  background: yellow;
 }
 a { /* color: yellow; border-bottom: 1px solid yellow; */}
 header { margin-bottom: 10vw;}
 
 
 @media screen {
+  /*
 h1 { font-family: "Austin", serif; font-weight: normal; font-size: 140px; line-height: 10vw; position:
  absolute; left: 0; text-align: center;  z-index: -1; mix-blend-mode: multiply; color: yellow;
-transform: rotate(45deg); transform-origin: left center; line-height: 90%; }
+transform: rotate(45deg); transform-origin: left center; line-height: 90%; } */
 
+  @media (min-width: 800px) {
  .wrapper { width: 96%; max-width: 800px; margin-top: 2%; margin-left: 3%; }
  .wrapper.toc { columns: 2;  column-gap: 40px; max-width: 96%; }
-
+}
 img { position: relative; z-index: -2; }
 
  }
