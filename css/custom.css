@@ -12,9 +12,9 @@ h1 { font-family: "Austin", serif; font-weight: normal; font-size: 140px; line-h
  absolute; left: 0; text-align: center;  z-index: -1; mix-blend-mode: multiply; color: yellow;
 transform: rotate(45deg); transform-origin: left center; line-height: 90%; } */
 
-  @media (min-width: 800px) {
  .wrapper { width: 96%; max-width: 800px; margin-top: 2%; margin-left: 3%; }
- .wrapper.toc { columns: 2;  column-gap: 40px; max-width: 96%; }
+ @media (min-width: 800px) {
+.wrapper.toc { columns: 2;  column-gap: 40px; max-width: 96%; }
 }
 img { position: relative; z-index: -2; }
 
