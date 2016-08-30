@@ -9,17 +9,15 @@
 title: Baby Bindery
 email: john@thedesignoffice.org
 description: > # this means to ignore newlines until "baseurl:"
-    Web-to-Print framework, templated using Jekyll. By Catherine Leigh Schmidt and Lukas WinklerPrins, for The Design Office PVD with John Caserta.
+  Babybindery is a web-to-print framework, templated using Jekyll. By Catherine Leigh Schmidt and Lukas WinklerPrins, for The Design Office PVD with John Caserta.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://risd-gd.github.io/ds16-18" # the base hostname & protocol for your site
+url: "http://thedesignoffice.github.io/babybindery/" # the base hostname & protocol for your site
 twitter_username:
-github_username: risd-gd
-markdown_ext: "md"
+github_username: thedesignoffice
 
 # Build settings
 markdown: kramdown
-kramdown:
-  input: GFM
 page_width: "8.5in"
 page_height: "11in"
+num_pages: 100
 content_types: [conversation, image, text, other]
