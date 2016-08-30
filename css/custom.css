@@ -1,4 +1,5 @@
 body{
   color: white;
+  background: blue;
 }
-a { color: yellow; }
+a { color: yellow; border-bottom: 1px solid yellow; }
