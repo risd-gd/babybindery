@@ -3,6 +3,10 @@ body{
   background: blue; */
 }
 a { /* color: yellow; border-bottom: 1px solid yellow; */}
-h1 { font-family: "Austin", serif; font-weight: normal; font-size: 10vw; line-height: 10vw; position:
- absolute; top: 1em; left: .5em; z-index: 2; mix-blend-mode: multiply; color: lime; }
 header { margin-bottom: 10vw;}
+
+
+@media screen {
+h1 { font-family: "Austin", serif; font-weight: normal; font-size: 10vw; line-height: 10vw; position:
+ absolute; top: 0; left: 0; text-align: center; padding-top: 30%; z-index: -1; mix-blend-mode: multiply; color: lime; }
+ }
