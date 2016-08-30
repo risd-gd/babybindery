@@ -13,7 +13,7 @@ h1 { font-family: "Austin", serif; font-weight: normal; font-size: 140px; line-h
 transform: rotate(45deg); transform-origin: left center; line-height: 90%; } */
 
  .wrapper { width: 96%; max-width: 800px; margin-top: 2%; margin-left: 3%; }
- h3 { border-bottom: 1px dashed black; }
+ h3 { border-top: 1px dashed black; padding-top: 2px; }
 @media (min-width: 800px) {
     .wrapper.toc {  max-width: 96%; }
 
