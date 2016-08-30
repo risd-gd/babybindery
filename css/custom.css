@@ -3,4 +3,4 @@ body{
   background: blue; */
 }
 a { /* color: yellow; border-bottom: 1px solid yellow; */}
-h1 { font-family: "Austin", serif; font-weight: normal; font-size: 6em; position: absolute; top: 1em; left: .5em; z-index: -1; color: lime; }
+h1 { font-family: "Austin", serif; font-weight: normal; font-size: 10vw; line-height: 10vw: absolute; top: 1em; left: .5em; z-index: -1; color: lime; }
