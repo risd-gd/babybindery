@@ -1,5 +1,5 @@
 body{
-/* color: red; 
+/* color: red;
   background: blue; */
 }
 a { /* color: yellow; border-bottom: 1px solid yellow; */}
@@ -14,5 +14,6 @@ transform: rotate(45deg); transform-origin: left center; line-height: 90%; }
  .wrapper { width: 96%; max-width: 800px; margin-top: 2%; margin-left: 3%; }
  .wrapper.toc { columns: 2;  column-gap: 40px; max-width: 96%; }
 
+img { position: relative; z-index: -2; }
 
  }
