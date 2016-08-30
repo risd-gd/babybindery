@@ -9,4 +9,7 @@ header { margin-bottom: 10vw;}
 @media screen {
 h1 { font-family: "Austin", serif; font-weight: normal; font-size: 10vw; width: 100%; line-height: 10vw; position:
  absolute; top: 0; left: 0; text-align: center; padding-top: 20%; z-index: -1; mix-blend-mode: multiply; color: lime; }
+
+ .wrapper.toc { columns: 2; }
+ .wrapper { width: 96%; }
  }
