@@ -38,3 +38,6 @@ transform: rotate(45deg); transform-origin: left center; line-height: 90%; } */
      min-height: 30px;
      -webkit-flex: 1 0 320px; flex: 1 0 320px;
    }
+
+ol li { list-style-type: decimal outside; padding-left: 34px; }
+ul li:before  { content: "*"; }
