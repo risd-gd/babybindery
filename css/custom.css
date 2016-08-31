@@ -12,13 +12,27 @@ h1 { font-family: "Austin", serif; font-weight: normal; font-size: 140px; line-h
  absolute; left: 0; text-align: center;  z-index: -1; mix-blend-mode: multiply; color: yellow;
 transform: rotate(45deg); transform-origin: left center; line-height: 90%; } */
 
- .wrapper { width: 96%; max-width: 800px; margin-top: 2%; margin-left: 3%; }
+    .wrapper { width: 96%; max-width: 800px; margin-top: 2%; margin-left: 3%; }
 
-@media (min-width: 800px) {
-    .wrapper.toc {  max-width: 96%; }
-
-    .wrapper ul { columns: 2;  column-gap: 40px;  }
+    @media (min-width: 800px) {
+      .wrapper.toc {  max-width: 96%; }
     }
+
     img { position: relative; z-index: -2; }
 
  }
+
+ .parent {
+   display: -webkit-flex; display: -webkit-box; display: -moz-box; display: -webkit-flex; display: -ms-flexbox; display: box;
+   display: flex;
+   -webkit-flex-direction: row; flex-direction: row;
+   -webkit-flex-wrap: wrap; flex-wrap: wrap;
+   padding: 0 22px 0 22px;
+   margin-bottom: 66px;
+ }
+
+   .child {
+     margin:22px;
+     min-height: 44px;
+     -webkit-flex: 1 0 220px; flex: 1 0 220px;
+   }
