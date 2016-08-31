@@ -11,7 +11,7 @@
 
     <!-- Output author details if some exist. -->
   <header>
-    <span>Make Book</span><a href="{{ site.baseurl }}"{{ site.title }}</a>
+    <span><a href="book.html">Make Book</a></span><a href="{{ site.baseurl }}"{{ site.title }}</a>
   </header>
     <div class="wrapper toc">
       <div class="page-content">
@@ -34,13 +34,11 @@
           {% endfor %}
         </ul>
           {% endfor %}
-        </d>
-
+        </div>
+<!--
         <div style="clear:both">
           <a href="book.html" class="button makebook">MAKE BOOK</a>
-          <!-- <a href="book_twocol.html" class="button makebook">MAKE TWO-COLUMN BOOK</a><br /> -->
-          <!-- Two-column currently out of comission. -->
-        </div>
+        </div>-->
 
         <div class="parent agate para_child">
             {{ content }}
