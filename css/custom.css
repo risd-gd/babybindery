@@ -4,8 +4,8 @@ body{
 }
 a { /* color: yellow; border-bottom: 1px solid yellow; */}
 header { margin-bottom: 10vw;}
-
-
+header span {float: right; }
+header a { background: blue; color: white; }
 @media screen {
   /*
 h1 { font-family: "Austin", serif; font-weight: normal; font-size: 140px; line-height: 10vw; position:
