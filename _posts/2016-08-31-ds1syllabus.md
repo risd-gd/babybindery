@@ -7,7 +7,7 @@ imgurl: http://i.imgur.com/vh4HeNP.png
 author: DS1 team
 ---
 
-![GitHub Logo](/images/logo.png)
+<!-- ![GitHub Logo](/images/logo.png) -->
 
 
 ## Course Overview
@@ -37,23 +37,23 @@ Designers often work with unfamiliar content, environments and contexts. An esse
 
 Although graphic design exists in a multitude of places, spaces, and surfaces, it is often considered to be mostly a two-dimensional enterprise. But in fact our work is often multi-dimensional dealing with everything from space-making, wayfinding, and system design to exhibit design, information environments, and complex networks and interfaces. Here you will play with various materials, forms, scales, and associations as you introduce design into chosen or designated spaces/places.
 
-Unit 03	Tom Ockerse
-	How can the graphic medium
-	enhance and enrich the
-	verbal message?
+### Unit 03	Tom Ockerse
+
+#### How can the graphic medium enhance and enrich the verbal message?
 In our engagement with the world around us, and our routine to make sense out of complexity, we take for granted the perceptual principles this interaction involves. We will look into the power of graphic design to discover how an abstract (non-visual) object like a “word” (a verbal means to represent an idea) can be enriched significantly toward a deep sense of poetic insight due to its graphic/visual delivery, and thus provide a lasting impression of value for the ideas it holds.
 
-Unit 04	Michelle Bowers
-	How can collaboration be a catalyst
-	for making?
+### Unit 04	Michelle Bowers
+####  How can collaboration be a catalyst for making?
 Collaboration is important across many fields of creative work and the discoveries made through it can be invaluable. This unit promotes methods that emphasize teamwork, spontaneity and responsiveness. You will see how methods of shared creativity can produce a form of knowledge that is experiential and intuitive. Beginning with a collaborative writing process, students will start to recognize emerging relationships upon which to build work, and from which to proceed into unexpected territory.
 
-Unit 05	Thomas Wedell
-	How can time be communicated?
+### Unit 05	Thomas Wedell
+
+#### How can time be communicated?
+
 One of the main concepts necessary to understanding the design process is the use of time. In our discipline, time plays an even bigger role — not only in how we engage in the design of an exhibit or screen based project, but also in the considerations we must build into two-dimensional “fixed” surfaces, such as signs, books, posters, and charts. Today’s designer must learn to master pacing. How a viewer encounters a sequence of events, and the pace that those events are viewed, forms one of the basic elements of communication.
 
 
-Sections
+## Sections
 
 01	John Caserta
 	*jcaserta@risd.edu*
@@ -75,7 +75,7 @@ Room 211
 	twedell@risd.edu
 Room 209
 
-Objectives
+## Objectives
 
 1	Develop habits for self-directed research and inquiry
 2	Develop critical thinking skills
@@ -85,8 +85,7 @@ Objectives
 6	Address and participate in contemporary social and cultural issues (in design)
 7	Place present day challenges within historical context
 
-Semester-long
-Deliverables
+## Semester-long Deliverables
 
 1	Sketchbook
 2	Research/Inspiration Blog (i.e. tumblr)
@@ -99,7 +98,7 @@ course website
 
 http://ds1517.risd.gd
 
-Grading
+## Grading
 
 Grades in D.S. do not emphasize end products, but the necessary work that leads to successful end products. Evidence of the below are visible in process blog, sketchbook, completion of units as directed by the faculty:
 
@@ -119,13 +118,13 @@ participation, motivation and personal commitment
 20% 	Finish
 	Demonstration of skills in craft, visual design, presentation and communication
 
-Attendance
+## Attendance
 
 Students should arrive on time and prepared for
 each class. Three unexcused absences will result
 in failure of the course.
 
-Etiquette
+## Etiquette
 
 Please turn off all
 cell phones — no txting or emailing during class.
@@ -175,10 +174,8 @@ Week	Date	Events
 
 Colons can be used to align columns.
 
-| Week        | Dates           | Events  |
-| ------------- |-------------| -----|
-| Week 01      	| Sep 13 			| * Course Overview  |
-|        	|   			| * Unit 1 Begins (Keetra)  |
+| Week 01      	| Sep 13 			| Course Overview  |
+|        	|   			| Unit 1 Begins (Keetra)  |
 | Week 02     | Sep 20      |   Unit 1 continues  |
 | Week 03 | Sep 27      |    Course Overview and such and such |
 
