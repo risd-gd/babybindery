@@ -1,10 +1,12 @@
 body{
 /* color: red; */
   background: yellow;
+  font-size: 15px; line-height: 27px;
 }
 
 /* Really needs to be set straight in universal */
 h1, h2, h3, h4 { margin: 0; }
+h2 { margin-left: 34px; }
 p {margin: 0; margin-bottom: 1em; }
 strong { font-weight: bold; }
 em { font-style: italic; }
