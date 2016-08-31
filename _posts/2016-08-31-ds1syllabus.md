@@ -169,9 +169,9 @@ Week	Date	Events
 
 Colons can be used to align columns.
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
+| Week        | Dates           | Events  |
+| ------------- |-------------| -----|
+| Week 01      	| Sept 13 			| Course Overview and such and such |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
