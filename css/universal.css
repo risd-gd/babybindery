@@ -15,8 +15,6 @@ img{
 h1, h2, h4 {
   font-weight: bold;
 }
-h3 {  font-style: italic;}
-.toc h3 { text-transform: capitalize; margin-top: 24px; text-indent: 41px; }
 
 p{
   margin: 0;

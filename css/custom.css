@@ -6,6 +6,8 @@ a { /* color: yellow; border-bottom: 1px solid yellow; */}
 header { margin-bottom: 60px; margin-left: 3%;}
 header span {float: right; }
 header a { background: blue; color: white; }
+.toc h3 { text-transform: capitalize; text-indent: 34px; }
+h3 { font-style: italic; }
 @media screen {
   /*
 h1 { font-family: "Austin", serif; font-weight: normal; font-size: 140px; line-height: 10vw; position:
