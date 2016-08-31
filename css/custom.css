@@ -49,4 +49,4 @@ transform: rotate(45deg); transform-origin: left center; line-height: 90%; } */
 ol  { list-style-type: decimal; padding-left: 34px; }
 ul li:before  { content: "* "; }
 td { padding-right: 34px; }
-tr { padding: 17px 0; border-bottom: 1px solid white; }
+tr { padding: 17px 0; border-bottom: 1px dashed black; }

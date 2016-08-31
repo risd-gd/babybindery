@@ -103,20 +103,19 @@ http://ds1517.risd.gd
 Grades in D.S. do not emphasize end products, but the necessary work that leads to successful end products. Evidence of the below are visible in process blog, sketchbook, completion of units as directed by the faculty:
 
 | 20% |	Contribution |
-|	Attendance,
-participation, motivation and personal commitment |
+|	Attendance, participation, motivation and personal commitment |
 
-20% 	Inquiry
-	Search, research, study, and networking of knowledge and insights
+| 20% |		Inquiry |
+|		Search, research, study, and networking of knowledge and insights |
 
-20% 	Breadth
-	Range of experience, willingness to experiment, take risks and broaden horizons
+| 20% |		Breadth |
+|		Range of experience, willingness to experiment, take risks and broaden horizons |
 
-20%	Depth
-	Attention to the quality of ideas, critical thought and authenticity and voice
+| 20% |	Depth |
+|		Attention to the quality of ideas, critical thought and authenticity and voice |
 
-20% 	Finish
-	Demonstration of skills in craft, visual design, presentation and communication
+| 20% |		Finish |
+|		Demonstration of skills in craft, visual design, presentation and communication |
 
 ## Attendance
 
@@ -135,11 +134,11 @@ cell phones — no txting or emailing during class.
 
 #Header 1
 
-## Header 2
+## Schedule
 
 Colons can be used to align columns.
 
-| Week | Mtg. Date |   |
+| Week | Date |   |
 | 01 | 	Sep 13 | Course Overview  |
 |    |   			| Unit 1 Begins (Keetra)  |
 | 02 | 	Sep 20 |   Unit 1 continues  |
