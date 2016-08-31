@@ -77,21 +77,21 @@ Room 209
 
 ## Objectives
 
-1	Develop habits for self-directed research and inquiry
-2	Develop critical thinking skills
-3	Develop rhetorical, communication and presentation skills
-4	Encourage a pluralistic approach to design problems
-5	Encourage work with emerging media
-6	Address and participate in contemporary social and cultural issues (in design)
-7	Place present day challenges within historical context
+1.	Develop habits for self-directed research and inquiry
+2.	Develop critical thinking skills
+3.	Develop rhetorical, communication and presentation skills
+4.	Encourage a pluralistic approach to design problems
+5.	Encourage work with emerging media
+6.	Address and participate in contemporary social and cultural issues (in design)
+7.	Place present day challenges within historical context
 
 ## Semester-long Deliverables
 
-1	Sketchbook
-2	Research/Inspiration Blog (i.e. tumblr)
+1.	Sketchbook
+2.	Research/Inspiration Blog (i.e. tumblr)
 to communicate ongoing findings
 for projects.
-3	Reflective Notes as insights or aware-
+3.	Reflective Notes as insights or aware-
 ness on a curiosity, excitement,
 or experience.
 course website
@@ -134,37 +134,37 @@ cell phones — no txting or emailing during class.
 
 Week	Date	Events
 
-01	09/15	Course Overview
+01.	09/15	Course Overview
 		Unit 1, Given (John Caserta)
 
-02	09/22	Unit 1, Continues
+02.	09/22	Unit 1, Continues
 
-03	09/29	Unit 1, Review
+03.	09/29	Unit 1, Review
 		Unit 2, Given
 		(Lucinda Hitchcock)
 
-04	10/06	Unit 2, Continues
+04.	10/06	Unit 2, Continues
 
-05	10/13	Unit 2, Review
+05.	10/13	Unit 2, Review
 		Unit 3, Given (Tom Ockerse)
 
-06	10/20	Unit 3, Continues
+06.	10/20	Unit 3, Continues
 
-07	10/27	Unit 3, Review
+07.	10/27	Unit 3, Review
 		Unit 4, Given (Michelle Bowers)
 
-08	11/03	Unit 4, Continues
+08.	11/03	Unit 4, Continues
 
-09	11/10	Unit 4, Review
+09.	11/10	Unit 4, Review
 		Unit 5, Given (Thomas Wedell)
 
-10	11/17	Unit 5, Continues
+10.	11/17	Unit 5, Continues
 
-11	11/24	Unit 5, Review
+11.	11/24	Unit 5, Review
 
-12	12/01	Final class
+12.	12/01	Final class
 
-13	12/15	Review day
+13.	12/15	Review day
 
 
 
