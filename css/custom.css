@@ -4,8 +4,8 @@ body{
 }
 a { /* color: yellow; border-bottom: 1px solid yellow; */}
 header { margin-bottom: 60px; margin-left: 3%;}
-header span {float: right; }
-header a { background: blue; color: white; }
+header span {float: right; padding-right: 34px;  }
+header a.sitename { background: blue; color: white; }
 .toc h3 { text-transform: capitalize; text-indent: 34px; }
 h3 { font-style: italic; }
 @media screen {
