@@ -3,7 +3,7 @@ body{
   background: yellow;
 }
 a { /* color: yellow; border-bottom: 1px solid yellow; */}
-header { margin-bottom: 10vw;}
+header { margin-bottom: 10vw; margin-left: 3%;}
 header span {float: right; }
 header a { background: blue; color: white; }
 @media screen {
@@ -12,7 +12,7 @@ h1 { font-family: "Austin", serif; font-weight: normal; font-size: 140px; line-h
  absolute; left: 0; text-align: center;  z-index: -1; mix-blend-mode: multiply; color: yellow;
 transform: rotate(45deg); transform-origin: left center; line-height: 90%; } */
 
-    .wrapper { width: 96%; max-width: 800px; margin-top: 2%; margin-left: 3%; }
+    .wrapper { max-width: 800px; margin-top: 2%; margin-left: 3%; }
 
     @media (min-width: 800px) {
       .wrapper.toc {  max-width: 96%; }
