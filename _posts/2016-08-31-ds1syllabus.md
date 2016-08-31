@@ -21,15 +21,17 @@ The emphasis will be on methodologies of making — observation, analysis, ideat
 Design Studio will take the form of a series of question-based units, each initiated by a faculty member and contextualized by a presentation, event, or workshop. Units may span the entire term, a few weeks, or a single class period. Design Studio is a fast-paced course that necessitates a self-directed, open-ended, experimental and playful mindset. Units will not define outcomes or prescribe processes, but rather will aim to inspire lines of enquiry, challenging students to explore unfamiliar subject matter, tools, media, and processes by their own initiative.
 
 ## DS1 Overview
-
+Something specific to DS1.
 
 ## DS1 Units
 
-### Unit 01	John Caserta
+### Unit 01:	John Caserta
+
 #### What do you value in what you see – and how can you communicate it to those who weren’t there?
+
 Designers often work with unfamiliar content, environments and contexts. An essential skill for the designer is to make sense of what she sees, and then communicate it clearly back to others. How do you distill or find meaning in what is already there? And how can you make use of it? Placed within the context of a design process, this is defined as observational research, assessing what is before anything is to be done.
 
-### Unit 02	Lucinda Hitchcock
+### Unit 02:	Lucinda Hitchcock
 
 #### How can you alter an existing space to create narrative?
 
