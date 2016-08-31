@@ -24,11 +24,10 @@ Design Studio will take the form of a series of question-based units, each initi
 
 ### Unit 01	John Caserta
 #### What do you value in what you see – and how can you communicate it to those who weren’t there?
-Designers often work with unfamiliar content, environments and contexts. An essential skill for the designer is to make sense of what she sees, and then communicate it clearly back to others. How do you distill or find meaning in what is already there? And how can you make use of it? Placed within the context of a design process, this is defined as observational research, assessing what is before anything is to be done.
+> Designers often work with unfamiliar content, environments and contexts. An essential skill for the designer is to make sense of what she sees, and then communicate it clearly back to others. How do you distill or find meaning in what is already there? And how can you make use of it? Placed within the context of a design process, this is defined as observational research, assessing what is before anything is to be done.
 
-Unit 02	Lucinda Hitchcock
- 	How can you alter an existing space
-	to create narrative?
+### Unit 02	Lucinda Hitchcock
+#### How can you alter an existing space to create narrative?
 Although graphic design exists in a multitude of places, spaces, and surfaces, it is often considered to be mostly a two-dimensional enterprise. But in fact our work is often multi-dimensional dealing with everything from space-making, wayfinding, and system design to exhibit design, information environments, and complex networks and interfaces. Here you will play with various materials, forms, scales, and associations as you introduce design into chosen or designated spaces/places.
 
 Unit 03	Tom Ockerse
