@@ -27,13 +27,12 @@ transform: rotate(45deg); transform-origin: left center; line-height: 90%; } */
    display: flex;
    -webkit-flex-direction: row; flex-direction: row;
    -webkit-flex-wrap: wrap; flex-wrap: wrap;
-   padding: 0 22px 0 22px;
-   margin-bottom: 66px;
+   margin-bottom: 60px;
    width: 100%;
  }
 
-   .child {
-     margin:22px;
-     min-height: 44px;
-     -webkit-flex: 1 0 220px; flex: 1 0 220px;
+   .child, .parent .para_child p {
+     margin-right:30px;
+     min-height: 30px;
+     -webkit-flex: 1 0 320px; flex: 1 0 320px;
    }
