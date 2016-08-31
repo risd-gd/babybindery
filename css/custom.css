@@ -29,6 +29,7 @@ transform: rotate(45deg); transform-origin: left center; line-height: 90%; } */
    -webkit-flex-wrap: wrap; flex-wrap: wrap;
    padding: 0 22px 0 22px;
    margin-bottom: 66px;
+   width: 100%;
  }
 
    .child {

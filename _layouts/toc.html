@@ -17,8 +17,9 @@
           {{ site.title }}
         </h1>
 
-        <ul>
+        <div class="parent">
           {% for type in site.content_types %}
+          <ul class="child">
           <h3>{{ type }}</h3>
           {% for post in site.posts %}
 
@@ -29,8 +30,9 @@
             </li>
             {% endif %}
           {% endfor %}
-          {% endfor %}
         </ul>
+          {% endfor %}
+        </div>
 
         <div style="clear:both">
           <a href="book.html" class="button makebook">MAKE BOOK</a>
