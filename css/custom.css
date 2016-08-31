@@ -12,7 +12,7 @@ h1 { font-family: "Austin", serif; font-weight: normal; font-size: 140px; line-h
  absolute; left: 0; text-align: center;  z-index: -1; mix-blend-mode: multiply; color: yellow;
 transform: rotate(45deg); transform-origin: left center; line-height: 90%; } */
 
-    .wrapper { max-width: 800px; margin-top: 2%; margin-left: 3%; }
+    .wrapper { width: 96%; max-width: 800px; margin-top: 2%; margin-left: 3%; }
 
     @media (min-width: 800px) {
       .wrapper.toc {  max-width: 96%; }
