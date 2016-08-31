@@ -5,7 +5,7 @@ body{
 
 /* Really needs to be set straight in universal */
 h1, h2, h3, h4 { margin: 0; }
-
+p {margin: 0; margin-bottom: 1em; }
 
 a { /* color: yellow; border-bottom: 1px solid yellow; */}
 header { margin-bottom: 60px; margin-left: 3%;}
