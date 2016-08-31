@@ -11,7 +11,7 @@
 
     <!-- Output author details if some exist. -->
   <header>
-    <a href="{{ site.baseurl }}"{{ site.title }}</a>
+    <span>Make Book</span><a href="{{ site.baseurl }}"{{ site.title }}</a>
   </header>
     <div class="wrapper toc">
       <div class="page-content">
@@ -42,17 +42,13 @@
           <!-- Two-column currently out of comission. -->
         </div>
 
-        <div class="parent agate">
-          <div class="para_child"
-      <p>  {{ content }}</p>
+        <div class="parent agate para_child">
+            {{ content }}
 
-        <p>
-          {{ site.description }}
-        </p>
+            {{ site.description }}
 
 
       </div>
-    </div>
 
   </body>
 

@@ -31,7 +31,7 @@ transform: rotate(45deg); transform-origin: left center; line-height: 90%; } */
    width: 100%;
  }
 
-   .child, .parent .para_child p {
+   .child, .parent.para_child p {
      margin-right:30px;
      min-height: 30px;
      -webkit-flex: 1 0 320px; flex: 1 0 320px;
