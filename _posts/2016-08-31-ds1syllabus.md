@@ -102,9 +102,9 @@ http://ds1517.risd.gd
 
 Grades in D.S. do not emphasize end products, but the necessary work that leads to successful end products. Evidence of the below are visible in process blog, sketchbook, completion of units as directed by the faculty:
 
-20% 	Contribution
-	Attendance,
-participation, motivation and personal commitment
+| 20% |	Contribution |
+|	Attendance,
+participation, motivation and personal commitment |
 
 20% 	Inquiry
 	Search, research, study, and networking of knowledge and insights
@@ -132,41 +132,6 @@ cell phones — no txting or emailing during class.
 
 
 
-Week	Date	Events
-
-01.	09/15	Course Overview
-		Unit 1, Given (John Caserta)
-
-02.	09/22	Unit 1, Continues
-
-03.	09/29	Unit 1, Review
-		Unit 2, Given
-		(Lucinda Hitchcock)
-
-04.	10/06	Unit 2, Continues
-
-05.	10/13	Unit 2, Review
-		Unit 3, Given (Tom Ockerse)
-
-06.	10/20	Unit 3, Continues
-
-07.	10/27	Unit 3, Review
-		Unit 4, Given (Michelle Bowers)
-
-08.	11/03	Unit 4, Continues
-
-09.	11/10	Unit 4, Review
-		Unit 5, Given (Thomas Wedell)
-
-10.	11/17	Unit 5, Continues
-
-11.	11/24	Unit 5, Review
-
-12.	12/01	Final class
-
-13.	12/15	Review day
-
-
 
 #Header 1
 
@@ -174,10 +139,21 @@ Week	Date	Events
 
 Colons can be used to align columns.
 
-| Week 01      	| Sep 13 			| Course Overview  |
-|        	|   			| Unit 1 Begins (Keetra)  |
-| Week 02     | Sep 20      |   Unit 1 continues  |
-| Week 03 | Sep 27      |    Course Overview and such and such |
+| Week | Mtg. Date |   |
+| 01 | 	Sep 13 | Course Overview  |
+|    |   			| Unit 1 Begins (Keetra)  |
+| 02 | 	Sep 20 |   Unit 1 continues  |
+| 03 | 	Sep 27 |    Course Overview and such and such |
+| 04 | 	Sep 20 |   Unit 1 continues  |
+| 04 | 	Sep 20 |   Unit 1 continues  |
+| 04 | 	Sep 20 |   Unit 1 continues  |
+| 04 | 	Sep 20 |   Unit 1 continues  |
+| 04 | 	Sep 20 |   Unit 1 continues  |
+| 04 | 	Sep 20 |   Unit 1 continues  |
+| 04 | 	Sep 20 |   Unit 1 continues  |
+| 04 | 	Sep 20 |   Unit 1 continues  |
+| 04 | 	Sep 20 |   Unit 1 continues  |
+| 04 | 	Sep 20 |   Unit 1 continues  |
 
 
 
