@@ -7,6 +7,9 @@ imgurl: http://i.imgur.com/vh4HeNP.png
 author: DS1 team
 ---
 
+![GitHub Logo](/images/logo.png)
+
+
 ## Course Overview
 Graphic design occupies an ever-expanding, ever-redefined territory at the intersection of verbal and visual languages. Its media spans everything from websites to postcards, film to signage, typefaces to billboards. Its methods make use of both sides of the brain: pairing  logic, critical analysis, research, and planning with intuitive search, mark-making and visual expression. Graphic designers are inquirers, observers, poets, editors, curators, analysts, researchers, commentators, and critics.
 
@@ -24,10 +27,12 @@ Design Studio will take the form of a series of question-based units, each initi
 
 ### Unit 01	John Caserta
 #### What do you value in what you see – and how can you communicate it to those who weren’t there?
-> Designers often work with unfamiliar content, environments and contexts. An essential skill for the designer is to make sense of what she sees, and then communicate it clearly back to others. How do you distill or find meaning in what is already there? And how can you make use of it? Placed within the context of a design process, this is defined as observational research, assessing what is before anything is to be done.
+Designers often work with unfamiliar content, environments and contexts. An essential skill for the designer is to make sense of what she sees, and then communicate it clearly back to others. How do you distill or find meaning in what is already there? And how can you make use of it? Placed within the context of a design process, this is defined as observational research, assessing what is before anything is to be done.
 
 ### Unit 02	Lucinda Hitchcock
+
 #### How can you alter an existing space to create narrative?
+
 Although graphic design exists in a multitude of places, spaces, and surfaces, it is often considered to be mostly a two-dimensional enterprise. But in fact our work is often multi-dimensional dealing with everything from space-making, wayfinding, and system design to exhibit design, information environments, and complex networks and interfaces. Here you will play with various materials, forms, scales, and associations as you introduce design into chosen or designated spaces/places.
 
 Unit 03	Tom Ockerse
@@ -49,11 +54,11 @@ One of the main concepts necessary to understanding the design process is the us
 Sections
 
 01	John Caserta
-	jcaserta@risd.edu
+	*jcaserta@risd.edu*
 Room 210
 
 02	Tom Ockerse
-	tockerse@risd.edu
+	*tockerse@risd.edu*
 Room 208
 
 03	Lucinda Hitchcock
@@ -168,40 +173,19 @@ Week	Date	Events
 
 Colons can be used to align columns.
 
-| Week        | Dates           | Events  |
+| :Week        | :Dates           | :Events  |
 | ------------- |-------------| -----|
-| Week 01      	| Sept 13 			| Course Overview and such and such |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Week 01      	| Sep 13 			| Course Overview and such and such |
+| Week 02     | Sep 20      |   Course Overview and such and such |
+| Week 03 | Sep 27      |    Course Overview and such and such |
 
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the
-raw Markdown line up prettily. You can also use inline Markdown.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
-
----
-
-Hyphens
-
-***
-
-Asterisks
-
-___
-
-Underscores
 
 
 1. First ordered list item
 2. Another item
-⋅⋅* Unordered sub-list.
+  * Unordered sub-list.
 1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
+  1. Ordered sub-list
 4. And another item.
 
 
