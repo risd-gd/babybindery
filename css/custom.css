@@ -8,6 +8,8 @@ header span {float: right; padding-right: 34px;  }
 header a.sitename { background: blue; color: white; }
 .toc h3 { text-transform: capitalize; text-indent: 34px; }
 h3 { font-style: italic; }
+h1, h2 { font-size: 24px; }
+h2 { color: blue; }
 @media screen {
   /*
 h1 { font-family: "Austin", serif; font-weight: normal; font-size: 140px; line-height: 10vw; position:
