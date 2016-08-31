@@ -1,8 +1,8 @@
 ---
-layout: conversation
+layout: default
 title: What is BabyBindery?
 date: 2015-05-31
-content-type: conversation
+content-type: Unit 2
 
 ---
 

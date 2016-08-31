@@ -2,7 +2,7 @@
 layout: image
 title: How Content Flows
 date: 2015-05-27
-content-type: image
+content-type: Unit 1
 imgurl: http://i.imgur.com/JFPLvO8.jpg
 author: Lukas & Cathy
 ---
