@@ -175,10 +175,11 @@ Week	Date	Events
 
 Colons can be used to align columns.
 
-| :Week        | :Dates           | :Events  |
+| Week        | Dates           | Events  |
 | ------------- |-------------| -----|
-| Week 01      	| Sep 13 			| Course Overview and such and such |
-| Week 02     | Sep 20      |   Course Overview and such and such |
+| Week 01      	| Sep 13 			| * Course Overview  |
+|        	|   			| * Unit 1 Begins (Keetra)  |
+| Week 02     | Sep 20      |   Unit 1 continues  |
 | Week 03 | Sep 27      |    Course Overview and such and such |
 
 
