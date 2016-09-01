@@ -5,6 +5,8 @@ date: 2016-08-31
 content-type: 3
 imgurl: http://i.imgur.com/vh4HeNP.png
 author: DS1 team
+tags: TAG
+categories: 1, bob
 ---
 
 <!-- ![GitHub Logo](/images/logo.png) -->
