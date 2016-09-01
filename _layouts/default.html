@@ -8,6 +8,9 @@
   <body>
     {% include header.html %}
     <div class="wrapper default">
+      {% if page.imgurl %}
+      	<img src="{{imgurl}}">
+      {% endif %}
       <section>
         <h1>{{ page.title }}</h1>
         <span>{{ page.date | date: "%m-%d-%Y" }}{% if page.author %} • {{ page.author }}{% endif %}</span>
