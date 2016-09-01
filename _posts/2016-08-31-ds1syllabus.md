@@ -10,13 +10,15 @@ category: Dev
 ---
 
 <!-- ![GitHub Logo](/images/logo.png) -->
+
 # Design Studio 1
 
 ## Rhode Island School of Design
-Fall 2016
 
-Course Graph-3210
-Meets Tuesdays, 1:10pm–6:10pm
+## Graphic Design, GRAPH-3210 *compulsory*
+
+## Fall 2016, Tuesdays, 1:10pm–6:10pm
+
 
 
 ## Course Overview
