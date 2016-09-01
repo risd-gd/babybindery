@@ -5,10 +5,16 @@ body{
 
 /* Really needs to be set straight in universal */
 h1, h2, h3, h4 { margin: 0; }
-h2 { margin-left: 34px; }
 p {margin: 0; margin-bottom: 1em; }
 strong { font-weight: bold; }
 em { font-style: italic; }
+
+.default p:nth-child(even) {padding-left: 10vw; }
+
+.default h1, h2, h3, h4 { font-weight: normal; color: red; }
+.default h2 { margin-left: 34px; }
+.default h3 { margin-left: 10vw; }
+.default h4 { margin-left: 10vw; }
 
 a { /* color: yellow; border-bottom: 1px solid yellow; */}
 header { margin-bottom: 60px; margin-left: 3%;}
@@ -16,8 +22,7 @@ header span {float: right; padding-right: 34px;  }
 header a.sitename { background: blue; color: white; }
 .toc h3 { text-transform: capitalize; }
 .toc h3 { text-indent: 0; color: red; mix-blend-mode: multiply; font-size: 210px; margin-top: 60px; }
-h1, h2 { font-size: 24px; }
-h1 { color: blue; }
+h1 { color: red; }
 
 .wrapper.toc a {
   border-bottom: 0;
