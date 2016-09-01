@@ -93,16 +93,12 @@ One of the main concepts necessary to understanding the design process is the us
 
 ## Semester-long Deliverables
 
-1.	Sketchbook
-2.	Research/Inspiration Blog (i.e. tumblr)
+*	Sketchbook
+*	Research/Inspiration Blog (i.e. tumblr)
 to communicate ongoing findings
 for projects.
-3.	Reflective Notes as insights or aware-
-ness on a curiosity, excitement,
-or experience.
-course website
+*	Reflective Notes as insights or awareness on a curiosity, excitement, or experience.
 
-[Course website](http://ds1618.risd.gd)
 
 ## Grading
 
@@ -124,14 +120,14 @@ Attention to the quality of ideas, critical thought and authenticity and voice
 ### 20% Finish
 Demonstration of skills in craft, visual design, presentation and communication
 
+
 ## Attendance
 
 Students should arrive on time and prepared for each class. Three unexcused absences will result in failure of the course.
 
 ## Etiquette
 
-Please turn off all
-cell phones — no txting or emailing during class.
+Please turn off all cell phones — no txting or emailing during class. Consider taking notes with pencil and paper, it has been shown to help you remember – and unexpected doodles may occur.
 
 
 
@@ -140,7 +136,7 @@ cell phones — no txting or emailing during class.
 
 ## Schedule
 
-| Week | Date |   |
+>| Week | Date |   |
 | 01 | 	Sep 13 | Course Overview  |
 |    |   			| Unit 1 Begins (Keetra)  |
 | 02 | 	Sep 20 |   Unit 1 continues  |
@@ -160,16 +156,4 @@ cell phones — no txting or emailing during class.
 | 12 | 	Dec 06 |   TBD  |
 | 13 | 	Dec 13 |   Review Day  |
 
-
-## Header 2
-
-1. First ordered list item
-2. Another item
-  * Unordered sub-list.
-1. Actual numbers don't matter, just that it's a number
-  1. Ordered sub-list
-4. And another item.
-
-
-* Unordered list can use asterisks
-* Unordered list can use asterisks
+[Course website](http://ds1618.risd.gd)
