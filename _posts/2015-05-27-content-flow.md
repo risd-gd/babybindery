@@ -1,5 +1,5 @@
 ---
-layout: image
+layout: default
 title: Unit 1 Overview & Assignment
 date: 2015-05-27
 content-type: 1
