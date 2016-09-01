@@ -18,6 +18,11 @@ header a.sitename { background: blue; color: white; }
 .toc h3 { text-indent: 0; color: red; mix-blend-mode: multiply; font-size: 210px; margin-top: 60px; }
 h1, h2 { font-size: 24px; }
 h1 { color: blue; }
+
+.wrapper.toc a {
+  border-bottom: 0;
+  display:block;
+}
 @media screen {
   /*
 h1 { font-family: "Austin", serif; font-weight: normal; font-size: 140px; line-height: 10vw; position:
