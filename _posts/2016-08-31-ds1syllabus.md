@@ -5,8 +5,8 @@ date: 2016-08-31
 content-type: 3
 imgurl: http://i.imgur.com/vh4HeNP.png
 author: DS1 team
-tag: [won, yule]
-categories: Dev
+tags: [won, yule]
+category: Dev
 ---
 
 <!-- ![GitHub Logo](/images/logo.png) -->

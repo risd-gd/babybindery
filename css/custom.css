@@ -14,8 +14,8 @@ a { /* color: yellow; border-bottom: 1px solid yellow; */}
 header { margin-bottom: 60px; margin-left: 3%;}
 header span {float: right; padding-right: 34px;  }
 header a.sitename { background: blue; color: white; }
-.toc h3 { text-transform: capitalize; text-indent: 34px; }
-h3 { text-indent: 0; color: red; mix-blend-mode: multiply; font-size: 210px; }
+.toc h3 { text-transform: capitalize; }
+.toc h3 { text-indent: 0; color: red; mix-blend-mode: multiply; font-size: 210px; margin-top: 60px; }
 h1, h2 { font-size: 24px; }
 h1 { color: blue; }
 @media screen {
