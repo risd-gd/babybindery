@@ -45,6 +45,7 @@ Although graphic design exists in a multitude of places, spaces, and surfaces, i
 In our engagement with the world around us, and our routine to make sense out of complexity, we take for granted the perceptual principles this interaction involves. We will look into the power of graphic design to discover how an abstract (non-visual) object like a “word” (a verbal means to represent an idea) can be enriched significantly toward a deep sense of poetic insight due to its graphic/visual delivery, and thus provide a lasting impression of value for the ideas it holds.
 
 ### Unit 04	Michelle Bowers
+
 ####  How can collaboration be a catalyst for making?
 Collaboration is important across many fields of creative work and the discoveries made through it can be invaluable. This unit promotes methods that emphasize teamwork, spontaneity and responsiveness. You will see how methods of shared creativity can produce a form of knowledge that is experiential and intuitive. Beginning with a collaborative writing process, students will start to recognize emerging relationships upon which to build work, and from which to proceed into unexpected territory.
 
@@ -57,23 +58,21 @@ One of the main concepts necessary to understanding the design process is the us
 
 ## Sections
 
-01	[John Caserta](http://johncaserta.com)
-	*jcaserta@risd.edu*
+### 01	[John Caserta](http://johncaserta.com)  *jcaserta@risd.edu*
 Room 210
 
-02	Tom Ockerse
-	*tockerse@risd.edu*
+### 02	Tom Ockerse  *tockerse@risd.edu*
 Room 208
 
-03	Lucinda Hitchcock
+### 03	Lucinda Hitchcock
 	lhitchco@risd.edu
 Room 211
 
-04	Michelle Bowers
+### 04	Michelle Bowers
 	mbowers@risd.edu
 	Room 212
 
-05	Thomas Wedell
+### 05	Thomas Wedell
 	twedell@risd.edu
 Room 209
 
@@ -98,14 +97,15 @@ ness on a curiosity, excitement,
 or experience.
 course website
 
-http://ds1517.risd.gd
+[Course website](http://ds1618.risd.gd)
 
 ## Grading
 
 Grades in D.S. do not emphasize end products, but the necessary work that leads to successful end products. Evidence of the below are visible in process blog, sketchbook, completion of units as directed by the faculty:
 
 ### 20% Contribution
-Attendance, participation, motivation and personal commitment
+
+#### Attendance, participation, motivation and personal commitment
 
 ### 20% Inquiry
 Research, research, study, and networking of knowledge and insights
