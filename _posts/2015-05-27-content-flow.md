@@ -5,7 +5,7 @@ date: 2015-05-27
 content-type: 1
 imgurl: http://i.imgur.com/JFPLvO8.jpg
 author: Lukas & Cathy
-categories: fred, 1
+category: [fred, 1]
 tag: anothertag
 ---
 
