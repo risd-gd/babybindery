@@ -23,6 +23,7 @@
     .default h4 { font-style: italic;  }
 
     a { /* color: yellow; border-bottom: 1px solid yellow; */}
+    section { margin-bottom: 1em; }
     header { margin-bottom: 60px; margin-left: 3%;}
     header span {float: right; padding-right: 34px;  }
     header a.sitename { background: blue; color: white; }
