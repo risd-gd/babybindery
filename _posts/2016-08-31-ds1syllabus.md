@@ -136,9 +136,9 @@ cell phones — no txting or emailing during class.
 
 ## Schedule
 
-Colons can be used to align columns.
-
-| Week | Date |   |
+> > Colons can be used to align columns.
+>
+> | Week | Date |   |
 | 01 | 	Sep 13 | Course Overview  |
 |    |   			| Unit 1 Begins (Keetra)  |
 | 02 | 	Sep 20 |   Unit 1 continues  |

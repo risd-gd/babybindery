@@ -8,6 +8,7 @@ h1, h2, h3, h4 { margin: 0; }
 p {margin: 0; margin-bottom: 1em; }
 strong { font-weight: bold; }
 em { font-style: italic; }
+blockquote { margin-left: 10vw; }
 
 .default p:nth-child(even) {padding-left: 10vw; }
 
