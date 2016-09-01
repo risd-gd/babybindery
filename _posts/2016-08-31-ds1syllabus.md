@@ -21,7 +21,6 @@ category: Dev
 
 
 
-## Course Overview
 Graphic design occupies an ever-expanding, ever-redefined territory at the intersection of verbal and visual languages. Its media spans everything from websites to postcards, film to signage, typefaces to billboards. Its methods make use of both sides of the brain: pairing  logic, critical analysis, research, and planning with intuitive search, mark-making and visual expression. Graphic designers are inquirers, observers, poets, editors, curators, analysts, researchers, commentators, and critics.
 
 Rather than attempt to codify this expansive landscape, or to delineate a sequential path through it, this course takes this ambiguity as license for experimentation, discovery, and play. You will encounter and engage the tools, materials, and processes of graphic design in functional context,
@@ -36,29 +35,29 @@ Something specific to DS1.
 
 ## DS1 Units
 
-### Unit 01:	John Caserta
+### Unit 01:	Keetra Dean Dixon
 
 #### What do you value in what you see – and how can you communicate it to those who weren’t there?
 
 Designers often work with unfamiliar content, environments and contexts. An essential skill for the designer is to make sense of what she sees, and then communicate it clearly back to others. How do you distill or find meaning in what is already there? And how can you make use of it? Placed within the context of a design process, this is defined as observational research, assessing what is before anything is to be done.
 
-### Unit 02:	Lucinda Hitchcock
+### Unit 02:	Tom Ockerse
 
 #### How can you alter an existing space to create narrative?
 
 Although graphic design exists in a multitude of places, spaces, and surfaces, it is often considered to be mostly a two-dimensional enterprise. But in fact our work is often multi-dimensional dealing with everything from space-making, wayfinding, and system design to exhibit design, information environments, and complex networks and interfaces. Here you will play with various materials, forms, scales, and associations as you introduce design into chosen or designated spaces/places.
 
-### Unit 03	Tom Ockerse
+### Unit 03	John Caserta
 
 #### How can the graphic medium enhance and enrich the verbal message?
 In our engagement with the world around us, and our routine to make sense out of complexity, we take for granted the perceptual principles this interaction involves. We will look into the power of graphic design to discover how an abstract (non-visual) object like a “word” (a verbal means to represent an idea) can be enriched significantly toward a deep sense of poetic insight due to its graphic/visual delivery, and thus provide a lasting impression of value for the ideas it holds.
 
-### Unit 04	Michelle Bowers
+### Unit 04	Thomas Wedell
 
 ####  How can collaboration be a catalyst for making?
 Collaboration is important across many fields of creative work and the discoveries made through it can be invaluable. This unit promotes methods that emphasize teamwork, spontaneity and responsiveness. You will see how methods of shared creativity can produce a form of knowledge that is experiential and intuitive. Beginning with a collaborative writing process, students will start to recognize emerging relationships upon which to build work, and from which to proceed into unexpected territory.
 
-### Unit 05	Thomas Wedell
+### Unit 05	James Goggin
 
 #### How can time be communicated?
 
@@ -141,23 +140,25 @@ cell phones — no txting or emailing during class.
 
 ## Schedule
 
-> > Colons can be used to align columns.
->
-> | Week | Date |   |
+| Week | Date |   |
 | 01 | 	Sep 13 | Course Overview  |
 |    |   			| Unit 1 Begins (Keetra)  |
 | 02 | 	Sep 20 |   Unit 1 continues  |
-| 03 | 	Sep 27 |    Course Overview and such and such |
-| 04 | 	Sep 20 |   Unit 1 continues  |
-| 04 | 	Sep 20 |   Unit 1 continues  |
-| 04 | 	Sep 20 |   Unit 1 continues  |
-| 04 | 	Sep 20 |   Unit 1 continues  |
-| 04 | 	Sep 20 |   Unit 1 continues  |
-| 04 | 	Sep 20 |   Unit 1 continues  |
-| 04 | 	Sep 20 |   Unit 1 continues  |
-| 04 | 	Sep 20 |   Unit 1 continues  |
-| 04 | 	Sep 20 |   Unit 1 continues  |
-| 04 | 	Sep 20 |   Unit 1 continues  |
+| 03 | 	Sep 27 |   Unit 1 finish  |
+|    |   			| Unit 2 Begins (Tom O.)  |
+| 04 | 	Oct 04 |   Unit 2 continues  |
+| 05 | 	Oct 11 |   Unit 2 finish  |
+|    |   			| Unit 3 Begins (John) |
+| 06 | 	Oct 18 |   Unit 3 continues  |
+| 07 | 	Oct 25 |   Unit 3 finish  |
+|    |   			| Unit 4 Begins (Tom W.)  |
+| 08 | 	Nov 01 |   Unit 4 continues  |
+| 09 | 	Nov 08 |   Unit 4  finish  |
+|    |   			| Unit 5 Begins (James)  |
+| 10 | 	Nov 15 |   Unit 5 continues  |
+| 11 | 	Nov 29 |   Unit 5 finish  |
+| 12 | 	Dec 06 |   TBD  |
+| 13 | 	Dec 13 |   Review Day  |
 
 
 ## Header 2
