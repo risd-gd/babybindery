@@ -31,6 +31,7 @@
     .default h3, .default h4 { display: inline-block; margin-left: 10vw; color: black; border-bottom: 1px solid black;  }
     .default h4 { font-style: italic;  }
 
+    .chapter_head { display: block; margin-left: 20vw; page-break-before: always; page-break-after: always; }
     a { /* color: yellow; border-bottom: 1px solid yellow; */}
     section { margin-bottom: 1em; }
     header { margin-bottom: 60px; margin-left: 3%;}
