@@ -17,24 +17,8 @@ category: Dev
 
 ### Graphic Design, GRAPH-3210 *req*
 
-### Fall 2016, Tuesdays 1:10 – 6:10pm  
+### Fall 2016, Tuesdays, 1:10 – 6:10pm  
 
-
-
-### 01	[John Caserta](http://johncaserta.com)  *jcaserta@risd.edu*
-> >  Room 210
-
-### 02	[Tom Ockerse](http://www.risd.edu/academics/graphic-design/faculty/thomas-ockerse/)  *tockerse@risd.edu*
-> > Room 208
-
-### 03	[James Goggin](http://practise.co.uk) *jgoggin@risd.edu*
-> >  Room 211
-
-### 03	[Keetra Dean Dixon](http://fromkeetra.com/) *kdixon01@risd.edu*
-> >  Room 212
-
-### 05	[Thomas Wedell](http://skolos-wedell.com) *twedell@risd.edu*
-> >  Room 209
 
 
 Graphic design occupies an ever-expanding, ever-redefined territory at the intersection of verbal and visual languages. Its media spans everything from websites to postcards, film to signage, typefaces to billboards. Its methods make use of both sides of the brain: pairing  logic, critical analysis, research, and planning with intuitive search, mark-making and visual expression. Graphic designers are inquirers, observers, poets, editors, curators, analysts, researchers, commentators, and critics.
@@ -177,6 +161,7 @@ Please turn off all cell phones — no txting or emailing during class. Consider
 | 09 | 	Nov 08 |   Unit 4  finish  |
 |    |   			| Unit 5 Begins (James)  |
 | 10 | 	Nov 15 |   Unit 5 continues  |
+|  | 	  |   Gobble gobble  |
 | 11 | 	Nov 29 |   Unit 5 finish  |
 | 12 | 	Dec 06 |   TBD  |
 | 13 | 	Dec 13 |   Review Day  |
