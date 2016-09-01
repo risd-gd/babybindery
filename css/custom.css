@@ -11,7 +11,7 @@
     p, ol {margin: 1em 0;  }
     strong { font-weight: bold; }
     em { font-style: italic; }
-    blockquote { margin-left: 10vw; }
+    blockquote, .default ul { margin-left: 10vw; }
     .default blockquote p, ol, ul { margin-top: 0;}
     .default a { padding-bottom: 3px; }
     .default p:nth-child(even) {padding-left: 10vw; }
