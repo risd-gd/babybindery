@@ -57,7 +57,7 @@ One of the main concepts necessary to understanding the design process is the us
 
 ## Sections
 
-01	John Caserta
+01	[John Caserta](http://johncaserta.com)
 	*jcaserta@risd.edu*
 Room 210
 
