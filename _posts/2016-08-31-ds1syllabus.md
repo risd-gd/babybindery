@@ -17,10 +17,10 @@ category: Dev
 
 ### Graphic Design, GRAPH-3210 *compulsory*
 
-### Fall 2016, Tuesdays, 1:10pm–6:10pm
+### Fall 2016, Tuesdays, 1:10pm–6:10pm  
 
 
-## DS Overview
+
 Graphic design occupies an ever-expanding, ever-redefined territory at the intersection of verbal and visual languages. Its media spans everything from websites to postcards, film to signage, typefaces to billboards. Its methods make use of both sides of the brain: pairing  logic, critical analysis, research, and planning with intuitive search, mark-making and visual expression. Graphic designers are inquirers, observers, poets, editors, curators, analysts, researchers, commentators, and critics.
 
 Rather than attempt to codify this expansive landscape, or to delineate a sequential path through it, this course takes this ambiguity as license for experimentation, discovery, and play. You will encounter and engage the tools, materials, and processes of graphic design in functional context,
