@@ -104,19 +104,29 @@ for projects.
 
 Grades in D.S. do not emphasize end products, but the necessary work that leads to successful end products. Evidence of the below are visible in process blog, sketchbook, completion of units as directed by the faculty:
 
-### 20% Contribution
+### 20%
+
+#### Contribution
 > Attendance, participation, motivation and personal commitment
 
-### 20% Inquiry
+### 20%
+
+#### Inquiry
 > Research, research, study, and networking of knowledge and insights
 
-### 20% Breadth
+### 20%
+
+#### Breadth
 > Range of experience, willingness to experiment, take risks and broaden horizons
 
-### 20% Depth
+### 20%
+
+#### Depth
 > Attention to the quality of ideas, critical thought and authenticity and voice
 
-### 20% Finish
+### 20%
+
+#### Finish
 > Demonstration of skills in craft, visual design, presentation and communication
 
 
