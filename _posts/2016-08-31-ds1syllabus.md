@@ -2,7 +2,7 @@
 layout: default
 title: Design Studio 1 syllabus
 date: 2016-08-31
-content-type: 3
+content-type: 1
 imgurl: /img/ds1_apples.png
 author: DS1 team
 tag: [won, yule]
