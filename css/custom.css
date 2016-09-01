@@ -14,9 +14,9 @@ blockquote { margin-left: 10vw; }
 
 .default h1, h2, h3, h4 { font-weight: normal;  }
 .default h1, h2 { color: red;  }
-.default h2 { margin-left: 34px; color: blue; }
+.default h2 { margin-left: 34px; }
 .default h3 { margin-left: 10vw; color: blue; }
-.default h4 { margin-left: 10vw; }
+.default h4 { margin-left: 10vw; color: blue; font-style: italic;  }
 
 a { /* color: yellow; border-bottom: 1px solid yellow; */}
 header { margin-bottom: 60px; margin-left: 3%;}
