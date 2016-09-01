@@ -3,7 +3,7 @@ layout: image
 title: How Content Flows
 date: 2015-05-27
 content-type: 1
-imgurl: http://i.imgur.com/JFPLvO8.jpg
+imgurl: http://images.computerhistory.org/timeline/timeline_computers_1971.4004.jpg
 author: Lukas & Cathy
 category: [fred, 1]
 tag: anothertag
