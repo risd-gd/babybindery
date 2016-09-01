@@ -26,6 +26,7 @@ header a.sitename { background: blue; color: white; }
 .toc h3 { text-indent: 0; color: red; mix-blend-mode: multiply; font-size: 210px; margin-top: 60px; }
 h1 { color: red; }
 
+
 .wrapper.toc a {
   border-bottom: 0;
   display:block;
@@ -64,5 +65,6 @@ transform: rotate(45deg); transform-origin: left center; line-height: 90%; } */
 table { width: 100%; }
 ol  { list-style-type: decimal; padding-left: 34px; }
 article ul li:before  { content: "* "; }
-td { padding-right: 34px; }
-tr { padding: 17px 0; border-bottom: 1px dashed black; }
+
+tr { border-bottom: 1px dashed black; }
+.default tr td { padding: 8.5px 34px 0;}

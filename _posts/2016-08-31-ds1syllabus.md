@@ -132,7 +132,6 @@ cell phones — no txting or emailing during class.
 
 
 
-#Header 1
 
 ## Schedule
 
@@ -155,6 +154,7 @@ cell phones — no txting or emailing during class.
 | 04 | 	Sep 20 |   Unit 1 continues  |
 
 
+## Header 2
 
 1. First ordered list item
 2. Another item
