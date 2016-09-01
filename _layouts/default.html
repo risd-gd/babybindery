@@ -8,8 +8,8 @@
   <body>
     {% include header.html %}
     <div class="wrapper default">
-      {% if page.imgurl %}
-      	<img src="{{imgurl}}">
+      {% if page.imgurl != '' %}
+      	<img src="{{page.imgurl}}">
       {% endif %}
       <section>
         <h1>{{ page.title }}</h1>
