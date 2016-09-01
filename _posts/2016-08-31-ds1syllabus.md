@@ -11,8 +11,10 @@ category: Dev
 
 <!-- ![GitHub Logo](/images/logo.png) -->
 # Design Studio 1
-Rhode Island School of Design
+
+## Rhode Island School of Design
 Fall 2016
+
 Course Graph-3210
 Meets Tuesdays, 1:10pm–6:10pm
 
@@ -64,19 +66,19 @@ One of the main concepts necessary to understanding the design process is the us
 ## Sections
 
 ### 01	[John Caserta](http://johncaserta.com)  *jcaserta@risd.edu*
-Room 210
+> >  Room 210
 
 ### 02	[Tom Ockerse](http://www.risd.edu/academics/graphic-design/faculty/thomas-ockerse/)  *tockerse@risd.edu*
-Room 208
+> > Room 208
 
 ### 03	[James Goggin](http://practise.co.uk) *jgoggin@risd.edu*
-Room 211
+> >  Room 211
 
 ### 03	[Keetra Dean Dixon](http://fromkeetra.com/) *kdixon01@risd.edu*
-Room 212
+> >  Room 212
 
 ### 05	[Thomas Wedell](http://skolos-wedell.com) *twedell@risd.edu*
-Room 209
+> >  Room 209
 
 ## Objectives
 
