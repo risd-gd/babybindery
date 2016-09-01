@@ -8,7 +8,7 @@
 
     /* Really needs to be set straight in universal */
     h1, h2, h3, h4 { margin: 0; }
-    p, ol {margin: 0; margin-bottom: 1em; }
+    p, ol {margin: 1em 0;  }
     strong { font-weight: bold; }
     em { font-style: italic; }
     blockquote { margin-left: 10vw; }

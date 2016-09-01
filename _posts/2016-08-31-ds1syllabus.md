@@ -13,11 +13,11 @@ category: Dev
 
 # Design Studio 1
 
-## Rhode Island School of Design
+### Rhode Island School of Design
 
-## Graphic Design, GRAPH-3210 *compulsory*
+### Graphic Design, GRAPH-3210 *compulsory*
 
-## Fall 2016, Tuesdays, 1:10pm–6:10pm
+### Fall 2016, Tuesdays, 1:10pm–6:10pm
 
 
 
@@ -155,5 +155,7 @@ Please turn off all cell phones — no txting or emailing during class. Consider
 | 11 | 	Nov 29 |   Unit 5 finish  |
 | 12 | 	Dec 06 |   TBD  |
 | 13 | 	Dec 13 |   Review Day  |
+
+
 
 [Course website](http://ds1618.risd.gd)
