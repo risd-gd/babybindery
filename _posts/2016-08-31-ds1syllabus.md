@@ -2,7 +2,7 @@
 layout: default
 title: Design Studio 1 syllabus
 date: 2016-08-31
-content-type: Syllabi etc
+content-type: 3
 imgurl: http://i.imgur.com/vh4HeNP.png
 author: DS1 team
 ---

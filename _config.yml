@@ -20,4 +20,4 @@ markdown: kramdown
 page_width: "8.5in"
 page_height: "11in"
 num_pages: 100
-content_types: [1, Unit 2, Syllabi etc]
+content_types: [1, 2, 3]
