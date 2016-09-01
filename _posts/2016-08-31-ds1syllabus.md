@@ -161,7 +161,6 @@ Please turn off all cell phones — no txting or emailing during class. Consider
 | 09 | 	Nov 08 |   Unit 4  finish  |
 |    |   			| Unit 5 Begins (James)  |
 | 10 | 	Nov 15 |   Unit 5 continues  |
-|  | 	  |   Gobble gobble  |
 | 11 | 	Nov 29 |   Unit 5 finish  |
 | 12 | 	Dec 06 |   TBD  |
 | 13 | 	Dec 13 |   Review Day  |
