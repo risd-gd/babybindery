@@ -24,10 +24,10 @@
             <li class="{{ post.content-type }}">
               <img src="{{ post.imgurl }}" />
               <a class="post-link" href="{{ post.url | prepend: site.github.url }}"> {{ post.title }}</a> {{ post.author }} <span class="post-meta agate">{{ post.date | date: "%-d %B %Y" }}</span>
+              <p>{{post.category}} / {{post.tag}}</p>
             </li>
             {% endif %}
           {% endfor %}
-          <p>{{post.category}} / {{post.tag}}</p>
         </ul>
           {% endfor %}
         </div>
