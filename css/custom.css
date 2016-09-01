@@ -48,7 +48,7 @@ transform: rotate(45deg); transform-origin: left center; line-height: 90%; } */
      min-height: 30px;
      -webkit-flex: 1 0 320px; flex: 1 0 320px;
    }
-
+.margintop { margin-top: 60px; }
 table { width: 100%; }
 ol  { list-style-type: decimal; padding-left: 34px; }
 article ul li:before  { content: "* "; }

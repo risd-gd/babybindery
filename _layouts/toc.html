@@ -18,11 +18,12 @@
           {% for type in site.content_types %}
           <ul class="child">
           <h3>{{ type }}</h3>
+          {{post.category}}
           {% for post in site.posts %}
 
             {% if post.content-type == type %}
             <li class="{{ post.content-type }}">
-              <img src="{{ post.imgurl }}" />
+              <a class="post-link" href="{{ post.url | prepend: site.github.url }}"><img src="{{ post.imgurl }}"></a>
               <a class="post-link" href="{{ post.url | prepend: site.github.url }}"> {{ post.title }}</a> {{ post.author }} <span class="post-meta agate">{{ post.date | date: "%-d %B %Y" }}</span>
               <p>{{post.category}} / {{post.tag}}</p>
             </li>
@@ -36,7 +37,7 @@
           <a href="book.html" class="button makebook">MAKE BOOK</a>
         </div>-->
 
-        <div class="parent agate para_child">
+        <div class="parent agate para_child margintop">
             {{ content }}
 
             {{ site.description }}

@@ -5,7 +5,7 @@ date: 2015-05-27
 content-type: 1
 imgurl: http://images.computerhistory.org/timeline/timeline_computers_1971.4004.jpg
 author: Lukas & Cathy
-category: [fred, 1]
+category: Post specific data
 tag: anothertag
 ---
 
