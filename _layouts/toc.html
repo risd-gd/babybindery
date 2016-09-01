@@ -17,7 +17,6 @@
         <div class="parent">
           {% for type in site.content_types %}
           <ul class="child">
-          <h3>{{ type }}</h3>
           {% for post in site.posts %}
 
             {% if post.content-type == type %}
@@ -27,6 +26,7 @@
             </li>
             {% endif %}
           {% endfor %}
+          <h3>{{ type }}</h3>
         </ul>
           {% endfor %}
         </div>
