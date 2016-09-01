@@ -61,19 +61,16 @@ One of the main concepts necessary to understanding the design process is the us
 ### 01	[John Caserta](http://johncaserta.com)  *jcaserta@risd.edu*
 Room 210
 
-### 02	Tom Ockerse  *tockerse@risd.edu*
+### 02	[Tom Ockerse](http://www.risd.edu/academics/graphic-design/faculty/thomas-ockerse/)  *tockerse@risd.edu*
 Room 208
 
-### 03	Lucinda Hitchcock
-	lhitchco@risd.edu
+### 03	[Keetra Dean Dixon](http://fromkeetra.com/) *kdixon01@risd.edu*
 Room 211
 
-### 04	Michelle Bowers
-	mbowers@risd.edu
-	Room 212
+### 04	[James Goggin](http://practise.co.uk) *jgoggin@risd.edu*
+Room 212
 
-### 05	Thomas Wedell
-	twedell@risd.edu
+### 05	[Thomas Wedell](http://skolos-wedell.com) *twedell@risd.edu*
 Room 209
 
 ## Objectives
