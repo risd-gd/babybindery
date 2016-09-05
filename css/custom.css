@@ -72,6 +72,8 @@
          margin-right:30px;
          min-height: 30px;
          -webkit-flex: 1 0 320px; flex: 1 0 320px;
+         margin-bottom: 90px;
+         min-height: 260px;
        }
     .margintop { margin-top: 60px; }
     table { width: 100%; }
