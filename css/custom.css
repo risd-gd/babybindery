@@ -38,7 +38,8 @@
     header span {float: right; padding-right: 34px;  }
     header a.sitename { background: blue; color: white; }
     .toc h3 { text-transform: capitalize; }
-    .toc h3 { text-indent: 0; color: red; mix-blend-mode: multiply; font-size: 210px; margin-top: 60px; }
+    .toc h3 { text-indent: 0; color: red; mix-blend-mode: multiply; font-size: 210px; margin-top: 60px; position: relative; z-index: 0; }
+    .toc .child img { mix-blend-mode: multiply; }
     h1 { color: red; }
 
 
