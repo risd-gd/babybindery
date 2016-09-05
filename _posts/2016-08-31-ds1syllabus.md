@@ -31,37 +31,36 @@ The emphasis will be on methodologies of making — observation, analysis, ideat
 Design Studio will take the form of a series of question-based units, each initiated by a faculty member and contextualized by a presentation, event, or workshop. Units may span the entire term, a few weeks, or a single class period. Design Studio is a fast-paced course that necessitates a self-directed, open-ended, experimental and playful mindset. Units will not define outcomes or prescribe processes, but rather will aim to inspire lines of enquiry, challenging students to explore unfamiliar subject matter, tools, media, and processes by their own initiative.
 
 ## DS1 Overview
-Something specific to DS1.
+DS1 is fast-paced, giving students access to various tools, methods and content areas in the field. Two week units emphasize copious making in week one, with filtering/refinement during week two. Finished projects are not the goal. 
 
 ## DS1 Units
 
 ### Unit 01:	Keetra Dean Dixon
 
-#### What do you value in what you see – and how can you communicate it to those who weren’t there?
+#### Question to come?
 
-Designers often work with unfamiliar content, environments and contexts. An essential skill for the designer is to make sense of what she sees, and then communicate it clearly back to others. How do you distill or find meaning in what is already there? And how can you make use of it? Placed within the context of a design process, this is defined as observational research, assessing what is before anything is to be done.
-
+To come to come to come to come
 ### Unit 02:	Tom Ockerse
 
-#### How can you alter an existing space to create narrative?
+#### Question to come?
 
-Although graphic design exists in a multitude of places, spaces, and surfaces, it is often considered to be mostly a two-dimensional enterprise. But in fact our work is often multi-dimensional dealing with everything from space-making, wayfinding, and system design to exhibit design, information environments, and complex networks and interfaces. Here you will play with various materials, forms, scales, and associations as you introduce design into chosen or designated spaces/places.
+To come to come to come to come
 
 ### Unit 03	John Caserta
 
-#### How can the graphic medium enhance and enrich the verbal message?
-In our engagement with the world around us, and our routine to make sense out of complexity, we take for granted the perceptual principles this interaction involves. We will look into the power of graphic design to discover how an abstract (non-visual) object like a “word” (a verbal means to represent an idea) can be enriched significantly toward a deep sense of poetic insight due to its graphic/visual delivery, and thus provide a lasting impression of value for the ideas it holds.
+#### Question to come?
+To come to come to come to come
 
 ### Unit 04	Thomas Wedell
 
-####  How can collaboration be a catalyst for making?
-Collaboration is important across many fields of creative work and the discoveries made through it can be invaluable. This unit promotes methods that emphasize teamwork, spontaneity and responsiveness. You will see how methods of shared creativity can produce a form of knowledge that is experiential and intuitive. Beginning with a collaborative writing process, students will start to recognize emerging relationships upon which to build work, and from which to proceed into unexpected territory.
+#### Question to come?
+To come to come to come to come
 
 ### Unit 05	James Goggin
 
-#### How can time be communicated?
+#### Question to come?
 
-One of the main concepts necessary to understanding the design process is the use of time. In our discipline, time plays an even bigger role — not only in how we engage in the design of an exhibit or screen based project, but also in the considerations we must build into two-dimensional “fixed” surfaces, such as signs, books, posters, and charts. Today’s designer must learn to master pacing. How a viewer encounters a sequence of events, and the pace that those events are viewed, forms one of the basic elements of communication.
+To come to come to come to come
 
 
 ## Sections
