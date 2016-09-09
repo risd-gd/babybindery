@@ -27,7 +27,7 @@ blockquote, .default ul { margin-left: 10vw; }
 
 
     .bigtimes p { font-size: 2em; line-height: 130%; font-family: times; word-spacing: 0; }
-    .chapter_head { display: block; margin-left: 20vw; page-break-before: always; page-break-after: always; }
+    .chapter_head { display: block; margin-left: 20%; page-break-before: always; page-break-after: always; }
     a { /* color: yellow; border-bottom: 1px solid yellow; */}
     section { margin-bottom: 1em; }
     header { margin-bottom: 60px; margin-left: 3%;}
