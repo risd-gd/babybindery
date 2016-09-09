@@ -31,6 +31,7 @@ The emphasis will be on methodologies of making — observation, analysis, ideat
 Design Studio will take the form of a series of question-based units, each initiated by a faculty member and contextualized by a presentation, event, or workshop. Units may span the entire term, a few weeks, or a single class period. Design Studio is a fast-paced course that necessitates a self-directed, open-ended, experimental and playful mindset. Units will not define outcomes or prescribe processes, but rather will aim to inspire lines of enquiry, challenging students to explore unfamiliar subject matter, tools, media, and processes by their own initiative.
 
 ## DS1 Overview
+
 DS1 is fast-paced, giving students access to various tools, methods and content areas in the field. Two week units emphasize copious making in week one, with filtering/refinement during week two. Finished projects are not the goal.
 
 ## DS1 Units
@@ -40,6 +41,7 @@ DS1 is fast-paced, giving students access to various tools, methods and content 
 #### Question to come?
 
 To come to come to come to come
+
 ### Unit 02:	Tom Ockerse
 
 #### Question to come?
@@ -49,11 +51,13 @@ To come to come to come to come
 ### Unit 03	John Caserta
 
 #### Question to come?
+
 To come to come to come to come
 
 ### Unit 04	Thomas Wedell
 
 #### Question to come?
+
 To come to come to come to come
 
 ### Unit 05	James Goggin
