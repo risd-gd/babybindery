@@ -31,7 +31,7 @@ The emphasis will be on methodologies of making — observation, analysis, ideat
 Design Studio will take the form of a series of question-based units, each initiated by a faculty member and contextualized by a presentation, event, or workshop. Units may span the entire term, a few weeks, or a single class period. Design Studio is a fast-paced course that necessitates a self-directed, open-ended, experimental and playful mindset. Units will not define outcomes or prescribe processes, but rather will aim to inspire lines of enquiry, challenging students to explore unfamiliar subject matter, tools, media, and processes by their own initiative.
 
 ## DS1 Overview
-DS1 is fast-paced, giving students access to various tools, methods and content areas in the field. Two week units emphasize copious making in week one, with filtering/refinement during week two. Finished projects are not the goal. 
+DS1 is fast-paced, giving students access to various tools, methods and content areas in the field. Two week units emphasize copious making in week one, with filtering/refinement during week two. Finished projects are not the goal.
 
 ## DS1 Units
 
@@ -141,7 +141,7 @@ Please turn off all cell phones — no txting or emailing during class. Consider
 
 
 
-
+```<div class="forcebreak">```
 ## Schedule
 
 >| Week | Date |   |
@@ -164,6 +164,6 @@ Please turn off all cell phones — no txting or emailing during class. Consider
 | 12 | 	Dec 06 |   TBD  |
 | 13 | 	Dec 13 |   Review Day  |
 
-
+```</div>```
 
 [Course website](http://ds1618.risd.gd)
