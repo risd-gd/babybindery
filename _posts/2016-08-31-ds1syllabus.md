@@ -141,7 +141,7 @@ Please turn off all cell phones — no txting or emailing during class. Consider
 
 
 
-<div class="forcebreak">
+<div class="forcebreak"></div>
 
 ## Schedule
 
@@ -165,6 +165,6 @@ Please turn off all cell phones — no txting or emailing during class. Consider
 | 12 | 	Dec 06 |   TBD  |
 | 13 | 	Dec 13 |   Review Day  |
 
-</div>
+
 
 [Course website](http://ds1618.risd.gd)
