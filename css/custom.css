@@ -25,6 +25,8 @@ blockquote, .default ul { margin-left: 10vw; }
     .default h3 { display: inline-block; margin-left: 10vw; color: black; border-bottom: 1px solid black;  }
     .default h4 { margin-left: 10vw; display: inline-block; font-style: italic;  }
 
+
+    .bigtimes p { font-size: 2em; line-height: 130%; font-family: times; word-spacing: 0; }
     .chapter_head { display: block; margin-left: 20vw; page-break-before: always; page-break-after: always; }
     a { /* color: yellow; border-bottom: 1px solid yellow; */}
     section { margin-bottom: 1em; }

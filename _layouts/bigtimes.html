@@ -1,0 +1,20 @@
+<html>
+  <head>
+    {% include metadata.html %}
+    {% include meyer_reset.html %}
+    {% include universal_css.html %}
+    {% include custom_css.html %}
+    <title>{{ site.title }}: {{ page.title }}</title>
+  </head>
+  <body>
+    {% include header.html %}
+    <div class="wrapper bigtimes">
+      {% if page.imgurl != '' %}
+      	<img src="{{page.imgurl}}">
+      {% endif %}
+      <article class="bigtimes">
+        {{ content }}
+      </article>
+    </div>
+  </body>
+</html>
