@@ -97,4 +97,4 @@ blockquote, .default ul { margin-left: 10vw; }
  }
 
  .forcebreak { page-break-before: always; page-break-after: always;  }
-.bookurl { margin: 2in; transform: rotate(90deg); margin-left: -1in;  color: yellow; }
+.bookurl { margin-top: -.75in; margin-left: -1in;  color: blue; font-size: 70%; }
