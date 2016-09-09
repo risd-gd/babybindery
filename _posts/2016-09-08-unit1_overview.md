@@ -3,7 +3,7 @@ layout: default
 title: Unit 1 Overview & Assignment
 date: 2016-09-08
 content-type: 1
-imgurl:
+imgurl: https://images.bigcartel.com/product_images/144428968/jk_keller-dots-re___.jpg
 author: Keetra
 category: Category
 tag: tag
