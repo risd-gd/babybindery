@@ -107,7 +107,7 @@ for projects.
 
 Grades in D.S. do not emphasize end products, but the necessary work that leads to successful end products. Evidence of the below are visible in process blog, sketchbook, completion of units as directed by the faculty:
 
->| Rubric |  |  
+>
 | *20% for contribution* |
 | Attendance, participation, motivation and personal commitment |
 | *20% for inquiry* |

@@ -1,7 +1,7 @@
 /* Really needs to be set straight in universal */
 h1, h2, h3, h4 { margin: 0; }
 h1 { margin-bottom: 2em;}
-p, ol, .default ul {margin: 0; margin-bottom: 1em; }
+p, ol, table, .default ul {margin: 0; margin-bottom: 1em; }
 strong { font-weight: bold; }
 em { font-style: italic; }
 blockquote, .default ul { margin-left: 10vw; }
