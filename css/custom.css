@@ -5,7 +5,7 @@ p, ol, .default ul {margin: 0; margin-bottom: 1em; }
 strong { font-weight: bold; }
 em { font-style: italic; }
 blockquote, .default ul { margin-left: 10vw; }
-
+.post-meta { white-space: nowrap; }
 
 
 

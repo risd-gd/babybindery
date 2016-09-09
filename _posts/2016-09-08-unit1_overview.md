@@ -4,7 +4,7 @@ title: Unit 1 Overview & Assignment
 date: 2016-09-08
 content-type: 1
 imgurl: https://images.bigcartel.com/product_images/144428968/jk_keller-dots-re___.jpg
-author: Keetra
+author: Keetra Dean Dixon
 category: Category
 tag: tag
 ---
