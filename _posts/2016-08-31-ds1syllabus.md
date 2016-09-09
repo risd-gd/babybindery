@@ -120,6 +120,7 @@ Grades in D.S. do not emphasize end products, but the necessary work that leads 
 | Demonstration of skills in craft, visual design, presentation and communication |
 
 
+
 ## Attendance
 
 Students should arrive on time and prepared for each class. Three unexcused absences will result in failure of the course.
@@ -130,9 +131,8 @@ Please turn off all cell phones — no txting or emailing during class. Consider
 
 
 
-
-
 <div class="forcebreak"></div>
+
 
 ## Schedule
 
