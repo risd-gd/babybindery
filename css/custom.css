@@ -84,4 +84,8 @@
     tr { border-bottom: 1px dashed black; }
     .default tr td { padding: 8.5px 34px 8.5px 0 }
 
+    @media (max-width: 800px) {
+      body {  font-size: 80%; }
+    }
+
  }
