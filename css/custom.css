@@ -6,14 +6,6 @@ strong { font-weight: bold; }
 em { font-style: italic; }
 blockquote, .default ul { margin-left: 10vw; }
 
-@media screen {
-/* All in screen right now */
-
-    body{
-    /* color: red; */
-      background: yellow;
-    }
-
 
 
 
@@ -54,12 +46,6 @@ blockquote, .default ul { margin-left: 10vw; }
      absolute; left: 0; text-align: center;  z-index: -1; mix-blend-mode: multiply; color: yellow;
     transform: rotate(45deg); transform-origin: left center; line-height: 90%; } */
 
-        .wrapper { width: 96%; max-width: 800px; margin-top: 2%; margin-left: 3%; }
-
-        @media (min-width: 800px) {
-          .wrapper.toc {  max-width: 96%; }
-        }
-
         img { position: relative; z-index: -2; }
 
      .parent {
@@ -85,6 +71,20 @@ blockquote, .default ul { margin-left: 10vw; }
 
     tr { border-bottom: 1px dashed black; }
     .default tr td { padding: 8.5px 34px 8.5px 0 }
+
+@media screen {
+    /* All in screen right now */
+    .wrapper { width: 96%; max-width: 800px; margin-top: 2%; margin-left: 3%; }
+
+    @media (min-width: 800px) {
+      .wrapper.toc {  max-width: 96%; }
+    }
+
+
+    body{
+      background: yellow;
+    }
+
 
     @media (max-width: 800px) {
       body {   font-size: 15px;
