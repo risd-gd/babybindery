@@ -28,7 +28,7 @@ In this assignment we’ll use the basic structures of language to lead an inter
 **Photo Hunt for Form. 1 hour**. **During Class.**  
 Shoot a minimum of 10 photos for each of the following categories.  
 • Shape  
-• Volume  
+• Volume  
 • Line  
 • Pattern  
 • Texture
