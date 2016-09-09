@@ -10,30 +10,31 @@ tag: tag
 ---
 
 # Unit 01: Keetra Dean Dixon
-## Question:
-### How can you translate what you see into a graphic language?
+
+## Question: How can you translate what you see into a graphic language?
 
 In 1919 Kandinsky wrote an essay in which he used the metaphor of verbal “language” to discuss the laws of visual form, calling simple geometric shapes “forms belonging to the first sphere of graphic language.” He came up with the full metaphor of “visual language” not long after and it has since become a foundational concept in the study of graphic design.
 
 In this assignment we’ll use the basic structures of language to lead an interpretive deconstruction of our surrounding, transforming them into a distinct graphic language. Just as paragraphs can be broken into words and words can be broken into letters, we’ll break photos of our environment into their basic formal elementals. We’ll translate those elements into new graphic forms, exploring a variety of materials and tools as we go. Your collection of forms will then be used to create new compositions, a graphic language all your own.
 
-**Learning Objectives:**  
+### Learning Objectives:
+
 • develop new form from what you see  
 • exercise an understanding of gestalt principles  
 • explore traditional and nontraditional tools & materials  
 • develop a distinct visual voice  
 • practice transparency of process & generosity with creative methods
 
-### PART 1:   
+#### PART 1:   
 **Photo Hunt for Form. 1 hour**. **During Class.**  
-Shoot a minimum of 10 photos for each of the following categories.  
+>Shoot a minimum of 10 photos for each of the following categories.  
 • Shape  
 • Volume  
 • Line  
 • Pattern  
 • Texture
 
-Shoot Quickly!!! Don’t belabor the creation of these photos, you will be transforming them later. You are hunting for potential. Look for the inspiring, the beautiful, the curious, anything the prompts a graphic translation. Speedily capture what’s you see and start looking for the next opportunity to photograph. Seek diversity in your collection of images. These are your sources to work from later, take as many pictures as possible within the allotted time.
+*Shoot Quickly!!!* Don’t belabor the creation of these photos, you will be transforming them later. You are hunting for potential. Look for the inspiring, the beautiful, the curious, anything the prompts a graphic translation. Speedily capture what’s you see and start looking for the next opportunity to photograph. Seek diversity in your collection of images. These are your sources to work from later, take as many pictures as possible within the allotted time.
 
 Return to class and prep for a casual, gallery style, laptop sharing.
 
