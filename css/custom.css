@@ -85,7 +85,9 @@
     .default tr td { padding: 8.5px 34px 8.5px 0 }
 
     @media (max-width: 800px) {
-      body {  font-size: 80%; }
+      body {   font-size: 15px;
+        line-height: 26px;
+        }
     }
 
  }
