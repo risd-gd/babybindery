@@ -3,7 +3,7 @@ layout: default
 title: Unit 1 Overview & Assignment
 date: 2016-09-08
 content-type: 1
-imgurl: /img/materialstudy.jpg
+imgurl: /img/materialstudy1.jpg
 author: Keetra Dean Dixon
 category: Category
 tag: tag
