@@ -3,7 +3,7 @@ layout: default
 title: Unit 1 Overview & Assignment
 date: 2016-09-08
 content-type: 1
-imgurl: https://www.fromkeetra.com/Downloads/fromktoj-MaterialStudy01-360x530.jpg
+imgurl: /img/materialstudy.jpg
 author: Keetra Dean Dixon
 category: Category
 tag: tag
