@@ -50,9 +50,9 @@ To come to come to come to come
 
 ### Unit 03	John Caserta
 
-#### Question to come?
+#### How can we use symbols to represent a group of people?
 
-To come to come to come to come
+We belong to many groups – each representing itself with a flag. This unit will take a close look at flags in order to better understand symbols. Whether for nations, unions, or schools, flags use symbols to communicate various cultural, historical or aspirational qualities of the group. The creation and appropriation of symbols to create meaning is an important part of a designer’s toolset – whether on a flag, website, emblem, logo or other context. This unit asks students to perform basic ethnographic research to better understand the values of a group, and to form symbols — sited on flags – that communicate those findings.
 
 ### Unit 04	Thomas Wedell
 
