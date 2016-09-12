@@ -112,7 +112,8 @@ In 1969, the French curator Yolande Amic posed this very question to designer Ch
 
 ## Grading
 
-Grades in D.S. do not emphasize end products, but the necessary work that leads to successful end products. Evidence of the below are visible in process blog, sketchbook, completion of units as directed by the faculty:
+Grades in D.S. do not emphasize end products, but the necessary work that leads to successful end products. Evidence of the below are visible in process blog, sketchbook, completion of units as directed by the faculty.
+
 >
 | | |
 | 20%   | *Contribution* |
