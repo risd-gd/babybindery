@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Design Studio 1 syllabus
-date: 2016-08-31
+date: 2016-09-12
 content-type: etc
 imgurl: /img/ds1_apples.png
 author: DS1 team
@@ -31,7 +31,7 @@ Design Studio will take the form of a series of question-based units, each initi
 DS1 pushes students into a variety of directions, introducing critical tools, methods and content areas in the field. Finished projects are not the goal.
 
 ## DS1 Units
- 
+
 ### Unit 01:	Keetra Dean Dixon
 
 #### How can you translate what you see into a graphic language?
