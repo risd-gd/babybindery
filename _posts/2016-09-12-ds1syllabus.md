@@ -128,16 +128,14 @@ Grades in D.S. do not emphasize end products, but the necessary work that leads 
 
 ## Etiquette
 
-Be present. Consider taking notes with pencil and paper, it has been shown to help you remember – and unexpected doodles may occur.
-
-Students should arrive on time and prepared for each class. Three unexcused absences will result in failure of the course.
+Be present. Consider taking notes with pencil and paper, it has been shown to help you remember – and unexpected doodles may occur. Students should arrive on time and prepared for each class. Three unexcused absences will result in failure of the course.
 
 
 
 
 ## Schedule
 
->| Week | Date |   |
+>| *Week* | *Date* |   |
 | 01 | 	Sep 13 | Course Overview  |
 |    |   			| Unit 1 Begins (Keetra)  |
 | 02 | 	Sep 20 |   Unit 1 continues  |
