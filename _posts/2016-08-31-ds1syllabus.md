@@ -5,8 +5,6 @@ date: 2016-08-31
 content-type: etc
 imgurl: /img/ds1_apples.png
 author: DS1 team
-tag: [won, yule]
-category: Dev
 ---
 
 <!-- ![GitHub Logo](/images/logo.png) -->
