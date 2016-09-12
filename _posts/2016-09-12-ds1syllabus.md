@@ -107,7 +107,7 @@ In 1969, the French curator Yolande Amic posed this very question to designer Ch
 
 *	*Sketchbook.* Collect your thoughts, sketches and observations somewhere
 *	*Research/Inspiration Blog.* Think of this as the digital equivalent of your sketchbook. Collect digitally native material (websites, videos, etc) somewhere. May we suggest: [tumblr](http://tumblr.com), [arena](https://www.are.na), [dropmark](http://dropmark.com), [pinterest](http://pinterest.com), [google drive](http://drive.google.com)
-*	*Reflective Notes* as insights or awareness on a curiosity, excitement, or experience.
+*	*Reflective Notes* as insights or awareness on a curiosity, excitement, or experience. Writing notes about your previous work will help to compile the reflective document at the end of the semester.
 
 
 ## Grading
