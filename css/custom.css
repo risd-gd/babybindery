@@ -72,7 +72,7 @@ blockquote, .default ul { margin-left: 10vw; }
     article ul li:before  { content: "* "; }
 
     tr { border-bottom: 1px dashed black; }
-    .default tr td, .content tr td { padding: 8.5px 34px 8.5px 0 }
+    .default tr td, .content tr td { padding: 4.25px 34px 4.25px 0 }
 
 @media screen {
     /* All in screen right now */

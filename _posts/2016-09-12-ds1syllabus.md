@@ -126,17 +126,13 @@ Grades in D.S. do not emphasize end products, but the necessary work that leads 
 
 
 
-## Attendance
+## Etiquette
+
+Be present. Consider taking notes with pencil and paper, it has been shown to help you remember – and unexpected doodles may occur.
 
 Students should arrive on time and prepared for each class. Three unexcused absences will result in failure of the course.
 
-## Etiquette
 
-Please turn off all cell phones — no txting or emailing during class. Consider taking notes with pencil and paper, it has been shown to help you remember – and unexpected doodles may occur.
-
-
-
-<div class="forcebreak"></div>
 
 
 ## Schedule
