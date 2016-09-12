@@ -20,7 +20,6 @@ category: Dev
 ### Fall 2016, Tuesdays, 1:10 – 6:10pm  
 
 
-
 Graphic design occupies an ever-expanding, ever-redefined territory at the intersection of verbal and visual languages. Its media spans everything from websites to postcards, film to signage, typefaces to billboards. Its methods make use of both sides of the brain: pairing  logic, critical analysis, research, and planning with intuitive search, mark-making and visual expression. Graphic designers are inquirers, observers, poets, editors, curators, analysts, researchers, commentators, and critics.
 
 Rather than attempt to codify this expansive landscape, or to delineate a sequential path through it, this course takes this ambiguity as license for experimentation, discovery, and play. You will encounter and engage the tools, materials, and processes of graphic design in functional context,
@@ -32,39 +31,50 @@ Design Studio will take the form of a series of question-based units, each initi
 
 ## DS1 Overview
 
-DS1 is fast-paced, giving students access to various tools, methods and content areas in the field. Two week units emphasize copious making in week one, with filtering/refinement during week two. Finished projects are not the goal.
+DS1 pushes students into a variety of directions, introducing critical tools, methods and content areas in the field. Finished projects are not the goal.
 
 ## DS1 Units
 
 ### Unit 01:	Keetra Dean Dixon
 
-#### Question to come?
+#### How can you translate what you see into a graphic language?
 
-To come to come to come to come
+In 1919 Kandinsky wrote an essay in which he used the metaphor of verbal “language” to discuss the laws of visual form, calling simple geometric shapes “forms belonging to the first sphere of graphic language.” He came up with the full metaphor of “visual language” not long after and it has since become a foundational concept in the study of graphic design.
+
+In this unit, we’ll use the basic structures of language to lead an interpretive deconstruction of our surrounding, transforming them into a distinct graphic language. Just as paragraphs can be broken into words and words can be broken into letters, we’ll break photos of our environment into their basic formal elementals. We’ll translate those elements into new forms, exploring a variety of materials and tools as we go. Your collection of forms will then be used to create new compositions, a graphic language all your own.
+
 
 ### Unit 02:	Tom Ockerse
 
-#### Question to come?
+#### How can the graphic medium enhance, enrich and deepen the verbal message?
 
-To come to come to come to come
+In engaging with the world around us, and our routine to “make sense” out of complexity, we take for granted the perceptual and holistic principles this interaction involves. That perception of parts and **configurations** as a **holistic system** depends greatly on the use of so-called “gestalt” principles (i.e., figure-ground, similarity, closure, etc.) and how these serve the purpose to communicate. Since graphic design presents ideas primarily via graphic means, awareness of these perceptual principles is critical for designers to help their products stimulate clarity and unity, curiosity and interest, inquiry and insight. We will look into this power of graphic design to discover how an abstract (non-visual) object like a “word” (i.e., a verbal means to represent an idea) can be enriched significantly toward a deep sense of poetic insight due to its combined graphic/visual delivery, and thus provide a lasting impression of value for the ideas it holds.
+
 
 ### Unit 03	John Caserta
 
 #### How can we use symbols to represent a group of people?
 
-We belong to many groups – each representing itself with a flag. This unit will take a close look at flags in order to better understand symbols. Whether for nations, unions, or schools, flags use symbols to communicate various cultural, historical or aspirational qualities of the group. The creation and appropriation of symbols to create meaning is an important part of a designer’s toolset – whether on a flag, website, emblem, logo or other context. This unit asks students to perform basic ethnographic research to better understand the values of a group, and to form symbols — sited on flags – that communicate those findings.
+The creation and appropriation of symbols to create meaning is an important part of a designer’s toolset – whether on a flag, website, emblem, logo or other context. This unit will take a close look at flags as an example of how symbols can connect (or distance) a group of people. Whether for nations, towns, labor unions, or schools, flags make use of the simplest of forms to communicate various cultural, historical or aspirational qualities of the group. This unit asks students to perform basic ethnographic research to better understand the values of a group, and to design symbols — sited on flags – that communicate those values.
 
 ### Unit 04	Thomas Wedell
 
-#### Question to come?
+#### How does the sequencing of information affect communication?
 
-To come to come to come to come
+One of the main concepts necessary to understanding the design process is the use of **time**. Careful ordering and distribution of information is essential to successful communication.
+
+In the expanded world of graphic design, time plays a major role. Not only in how we engage in the design of an exhibit or screen based project, but also in the considerations a designer must build into two-dimensional “fixed” surfaces, such as signs, books, posters, and charts.
+
+The graphic designer today must learn to master the art of pacing. How a viewer encounters information in a specific sequence and the pace at which that information is viewed, is one of the basic elements of communication. The order in which ideas
+are accessed is at the essence of any design project.
+
 
 ### Unit 05	James Goggin
 
-#### Question to come?
+#### Does design imply the idea of products that are necessarily useful?
 
-To come to come to come to come
+In 1969, the French curator Yolande Amic posed this very question to designer Charles Eames. His reply? “Yes, even though the use might be very subtle.” What makes something useful? What kind of use is deemed valid in design? Should design solve problems, eliminate labour, and/or aid in the creation of capital? Can a design that simply makes us laugh be considered “useful”? With the overview we are often afforded as connectors between—and participants in—authorship and production, graphic designers have the power to subvert expectations and provide utility in unexpected but entirely appropriate, even delightful, ways.
+
 
 
 ## Sections
@@ -96,10 +106,8 @@ To come to come to come to come
 
 ## Semester-long Deliverables
 
-*	Sketchbook
-*	Research/Inspiration Blog (i.e. tumblr)
-to communicate ongoing findings
-for projects.
+*	Sketchbook: Collect your thoughts, sketches and observations somewhere
+*	Research/Inspiration Blog. Think of this as the digital equivalent of your sketchbook. Collect digitally native material (websites, videos, etc) somewhere. May we suggest: [tumblr](http://tumblr.com), [arena](https://www.are.na), [dropmark](http://dropmark.com), [pinterest](http://pinterest.com), [google drive](http://drive.google.com)
 *	Reflective Notes as insights or awareness on a curiosity, excitement, or experience.
 
 
