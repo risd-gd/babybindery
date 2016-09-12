@@ -32,7 +32,6 @@ DS1 pushes students into a variety of directions, introducing critical tools, me
 
 ## DS1 Units
 
-![keetra](/img/materialstudy1.jpg)
 
 ### Unit 01:	Keetra Dean Dixon
 
@@ -49,7 +48,6 @@ In this unit, we’ll use the basic structures of language to lead an interpreti
 
 In engaging with the world around us, and our routine to “make sense” out of complexity, we take for granted the perceptual and holistic principles this interaction involves. That perception of parts and **configurations** as a **holistic system** depends greatly on the use of so-called “gestalt” principles (i.e., figure-ground, similarity, closure, etc.) and how these serve the purpose to communicate. Since graphic design presents ideas primarily via graphic means, awareness of these perceptual principles is critical for designers to help their products stimulate clarity and unity, curiosity and interest, inquiry and insight. We will look into this power of graphic design to discover how an abstract (non-visual) object like a “word” (i.e., a verbal means to represent an idea) can be enriched significantly toward a deep sense of poetic insight due to its combined graphic/visual delivery, and thus provide a lasting impression of value for the ideas it holds.
 
-![flag](/img/eclipse-XXL-anim.gif)
 
 
 ### Unit 03	John Caserta
