@@ -103,9 +103,9 @@ In 1969, the French curator Yolande Amic posed this very question to designer Ch
 
 ## Semester-long Deliverables
 
-*	Sketchbook: Collect your thoughts, sketches and observations somewhere
-*	Research/Inspiration Blog. Think of this as the digital equivalent of your sketchbook. Collect digitally native material (websites, videos, etc) somewhere. May we suggest: [tumblr](http://tumblr.com), [arena](https://www.are.na), [dropmark](http://dropmark.com), [pinterest](http://pinterest.com), [google drive](http://drive.google.com)
-*	Reflective Notes as insights or awareness on a curiosity, excitement, or experience.
+*	*Sketchbook.* Collect your thoughts, sketches and observations somewhere
+*	*Research/Inspiration Blog.* Think of this as the digital equivalent of your sketchbook. Collect digitally native material (websites, videos, etc) somewhere. May we suggest: [tumblr](http://tumblr.com), [arena](https://www.are.na), [dropmark](http://dropmark.com), [pinterest](http://pinterest.com), [google drive](http://drive.google.com)
+*	*Reflective Notes* as insights or awareness on a curiosity, excitement, or experience.
 
 
 ## Grading
@@ -113,15 +113,15 @@ In 1969, the French curator Yolande Amic posed this very question to designer Ch
 Grades in D.S. do not emphasize end products, but the necessary work that leads to successful end products. Evidence of the below are visible in process blog, sketchbook, completion of units as directed by the faculty:
 
 >
-| *20% for contribution* | | 
+| 20%   | *Contribution* |
 | | Attendance, participation, motivation and personal commitment |
-| *20% for inquiry* | |
+| 20%   |  *Inquiry* |
 | | Research, research, study, and networking of knowledge and insights |
-| *20% for breadth* | |
+| 20%   |  *Breadth* |
 | | Range of experience, willingness to experiment, take risks and broaden horizons |
-| *20% for depth* | |
+| 20%   | *Depth* |
 | | Attention to the quality of ideas, critical thought and authenticity and voice |
-| *20% for finish* | |
+| 20%  | *Finish* |
 | | Demonstration of skills in craft, visual design, presentation and communication |
 
 
