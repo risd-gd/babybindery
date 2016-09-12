@@ -19,11 +19,11 @@ blockquote, .default ul { margin-left: 10vw; }
     .default p:nth-child(even) {padding-left: 10vw; }
     .red { color: red;}
 
-    .default h1, h2, h3, h4 { font-weight: normal;  }
-    .default h1, h2 { color: red;  }
+    h1, h2, h3, h4 { font-weight: normal;  }
+    h1, h2 { color: red;  }
     .default h2 { margin-left: 34px; }
     .default h3 { display: inline-block; margin-left: 10vw; color: black; border-bottom: 1px solid black;  }
-    .default h4 { margin-left: 10vw; display: inline-block; font-style: italic;  }
+    .default h4 { margin-left: 10%; display: inline-block; font-style: italic;  }
 
 
     .bigtimes p { font-size: 2em; line-height: 130%; font-family: times; word-spacing: 0; }
@@ -36,7 +36,6 @@ blockquote, .default ul { margin-left: 10vw; }
     .toc h3 { text-transform: capitalize; }
     .toc h3 { text-indent: 0; color: red; mix-blend-mode: multiply; font-size: 210px; margin-top: 60px; position: relative; z-index: -1; }
     .toc .child img { mix-blend-mode: multiply; }
-    h1 { color: red; }
 
 
     .wrapper.toc a {

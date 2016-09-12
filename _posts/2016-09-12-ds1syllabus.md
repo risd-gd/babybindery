@@ -32,7 +32,6 @@ DS1 pushes students into a variety of directions, introducing critical tools, me
 
 ## DS1 Units
 
-
 ### Unit 01:	Keetra Dean Dixon
 
 #### How can you translate what you see into a graphic language?
