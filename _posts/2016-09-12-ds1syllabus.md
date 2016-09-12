@@ -113,16 +113,16 @@ In 1969, the French curator Yolande Amic posed this very question to designer Ch
 Grades in D.S. do not emphasize end products, but the necessary work that leads to successful end products. Evidence of the below are visible in process blog, sketchbook, completion of units as directed by the faculty:
 
 >
-| *20% for contribution* |
-| Attendance, participation, motivation and personal commitment |
-| *20% for inquiry* |
-| Research, research, study, and networking of knowledge and insights |
-| *20% for breadth* |
-| Range of experience, willingness to experiment, take risks and broaden horizons |
-| *20% for depth* |
-| Attention to the quality of ideas, critical thought and authenticity and voice |
-| *20% for finish* |
-| Demonstration of skills in craft, visual design, presentation and communication |
+| *20% for contribution* | | 
+| | Attendance, participation, motivation and personal commitment |
+| *20% for inquiry* | |
+| | Research, research, study, and networking of knowledge and insights |
+| *20% for breadth* | |
+| | Range of experience, willingness to experiment, take risks and broaden horizons |
+| *20% for depth* | |
+| | Attention to the quality of ideas, critical thought and authenticity and voice |
+| *20% for finish* | |
+| | Demonstration of skills in craft, visual design, presentation and communication |
 
 
 
