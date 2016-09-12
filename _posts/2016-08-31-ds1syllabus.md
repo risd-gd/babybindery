@@ -7,7 +7,6 @@ imgurl: /img/ds1_apples.png
 author: DS1 team
 ---
 
-<!-- ![GitHub Logo](/images/logo.png) -->
 
 # Design Studio 1
 
