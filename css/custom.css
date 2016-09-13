@@ -6,7 +6,9 @@ strong { font-weight: bold; }
 em { font-style: italic; }
 blockquote, .default ul { margin-left: 10vw; }
 .post-meta { white-space: nowrap; }
-
+@media print {
+  .sheet { background: none; }
+}
 
 
     .default h3 + p {
