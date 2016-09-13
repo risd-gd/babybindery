@@ -71,8 +71,9 @@ are accessed is at the essence of any design project.
 
 #### Does design imply the idea of products that are necessarily useful?
 
-In 1969, the French curator Yolande Amic posed this very question to designer Charles Eames. His reply? “Yes, even though the use might be very subtle.” What makes something useful? What kind of use is deemed valid in design? Should design solve problems, eliminate labour, and/or aid in the creation of capital? Can a design that simply makes us laugh be considered “useful”? With the overview we are often afforded as connectors between—and participants in—authorship and production, graphic designers have the power to subvert expectations and provide utility in unexpected but entirely appropriate, even delightful, ways.
+In 1969, the French curator Yolande Amic posed this very question to designer Charles Eames. His reply? “Yes, even though the use might be very subtle.” The unit will question divisions and overlaps between beauty and utility, and between art and design. What makes something useful? What kind of use is deemed valid in design? Should design solve problems, eliminate labour, and/or aid in the creation of capital? Can a design that simply makes us laugh be considered “useful”?
 
+We will conduct experiments and make proposals, aiming to challenge thinking about utility and beauty, and subvert conventions of common tools, formats, systems, and objects. With the overview we are often afforded as connectors between — and participants in — authorship and production, graphic designers have the power to challenge expectations and provide utility in unexpected but entirely appropriate, even delightful, ways.
 
 
 ## Sections
