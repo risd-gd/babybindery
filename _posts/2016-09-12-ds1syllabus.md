@@ -111,7 +111,7 @@ We will conduct experiments and make proposals, aiming to challenge thinking abo
 
 ## Grading
 
-Grades in D.S. do not emphasize end products, but the necessary work that leads to successful end products. Evidence of the below are visible in process blog, sketchbook, completion of units as directed by the faculty.
+Grades in D.S. do not emphasize end products, but the necessary work that leads to successful end products. Evidence of your effort and competency are visible in the research blog(s), sketchbook, participation in class, and completion of the unit assignments as directed by the faculty. The below categories are meant to make assessment more clearly measurable by student and faculty alike.
 
 >
 | | |
