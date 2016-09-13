@@ -38,7 +38,7 @@ DS1 pushes students into a variety of directions, introducing critical tools, me
 
 In 1919 Kandinsky wrote an essay in which he used the metaphor of verbal “language” to discuss the laws of visual form, calling simple geometric shapes “forms belonging to the first sphere of graphic language.” He came up with the full metaphor of “visual language” not long after and it has since become a foundational concept in the study of graphic design.
 
-In this unit, we’ll use the basic structures of language to lead an interpretive deconstruction of our surrounding, transforming them into a distinct graphic language. Just as paragraphs can be broken into words and words can be broken into letters, we’ll break photos of our environment into their basic formal elementals. We’ll translate those elements into new forms, exploring a variety of materials and tools as we go. Your collection of forms will then be used to create new compositions, a graphic language all your own.
+In this unit, we’ll use the basic structures of language to lead an interpretive deconstruction of our surroundings, transforming them into a distinct graphic language. Just as paragraphs can be broken into words and words can be broken into letters, we’ll break photos of our environment into their basic formal elementals. We’ll translate those elements into new forms, exploring a variety of materials and tools as we go. Your collection of forms will then be used to create new compositions, a graphic language all your own.
 
 
 ### Unit 02:	Tom Ockerse
