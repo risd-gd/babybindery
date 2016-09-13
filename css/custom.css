@@ -4,7 +4,7 @@ h1 { margin-bottom: 2em;}
 p, ol, table, .default ul {margin: 0; margin-bottom: 1em; }
 strong { font-weight: bold; }
 em { font-style: italic; }
-blockquote, .default ul { margin-left: 10vw; }
+blockquote, .default ul { margin-left: 10%; }
 .post-meta { white-space: nowrap; }
 @media print {
   .sheet { background: none; }
@@ -19,14 +19,14 @@ blockquote, .default ul { margin-left: 10vw; }
 
     .default blockquote p, ol, ul { margin-top: 0;}
     .default a { padding-bottom: 3px; }
-    .default p:nth-child(even) {padding-left: 10vw; }
+    .default p:nth-child(even) {padding-left: 10%; }
     .red { color: red;}
 
     h1, h2, h3, h4 { font-weight: normal;  }
     h1, h2 { color: red;  }
     .default h2 { margin-left: 34px; }
-    .default h3 { display: inline-block; margin-left: 10vw; color: black; border-bottom: 1px solid black;  }
-    .default h4 { margin-left: 10vw; display: inline-block; font-style: italic; font-weight: normal;  }
+    .default h3 { display: inline-block; margin-left: 10%; color: black; border-bottom: 1px solid black;  }
+    .default h4 { margin-left: 10%; display: inline-block; font-style: italic; font-weight: normal;  }
 
 
     .bigtimes p { font-size: 2em; line-height: 130%; font-family: times; word-spacing: 0; }
