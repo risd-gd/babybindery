@@ -23,9 +23,9 @@ blockquote, .default ul { margin-left: 10vw; }
 
     h1, h2, h3, h4 { font-weight: normal;  }
     h1, h2 { color: red;  }
-    .default h2 { margin-left: 34px; }
-    .default h3 { display: inline-block; margin-left: 10vw; color: black; border-bottom: 1px solid black;  }
-    .default h4 { margin-left: 10vw; display: inline-block; font-style: italic; font-weight: normal;  }
+    h2 { margin-left: 34px; }
+    h3 { display: inline-block; margin-left: 10vw; color: black; border-bottom: 1px solid black;  }
+    h4 { margin-left: 10vw; display: inline-block; font-style: italic; font-weight: normal;  }
 
 
     .bigtimes p { font-size: 2em; line-height: 130%; font-family: times; word-spacing: 0; }
@@ -98,4 +98,4 @@ blockquote, .default ul { margin-left: 10vw; }
  }
 
  .forcebreak { page-break-after: always;  }
-.bookurl { color: blue; font-size: 70%; margin-left: -10vw; }
+.bookurl { color: blue; font-size: 70%; margin-top: 2em; }
