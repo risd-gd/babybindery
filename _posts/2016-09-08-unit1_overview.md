@@ -83,6 +83,8 @@ Now is the time for editing. Review your source photos for new opportunities and
 
 **DELIVERABLES Due Next Week, Sept 20:**  
 **Prep the following for projected presentation next week:**  
+A pdf
+• Cover page with your name, date, Unit 1: How can you translate what you see into a graphic language?
 • 1 summary image of all 25 bits.   
 • Detail shots as needed: Graphic forms with fine detail can also be featured larger scale in additional pages.  
 • Process for 5 Graphic Forms: Pick 5 of your favorite forms or forms with interesting process and tell us how you did it. Be prepared to casually explain the steps involved, providing visual references as needed. Use the photos or screen shots taken earlier.  
