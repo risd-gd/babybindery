@@ -126,7 +126,6 @@ Grades in D.S. do not emphasize end products, but the necessary work that leads 
 | 20%  | *Finish* |
 | | Demonstration of skills in craft, visual design, presentation and communication |
 
-<div class="forcebreak"></div>
 
 ## Etiquette
 
