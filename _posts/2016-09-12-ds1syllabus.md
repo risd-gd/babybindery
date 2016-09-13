@@ -51,7 +51,7 @@ In engaging with the world around us, and our routine to “make sense” out of
 
 ### Unit 03	John Caserta
 
-#### How can we use symbols to represent a group of people?
+#### How can we use symbols to unify groups?
 
 The creation and appropriation of symbols to create meaning is an important part of a designer’s toolset – whether on a flag, website, emblem, logo or other context. This unit will take a close look at flags as an example of how symbols can connect (or distance) a group of people. Whether for nations, towns, labor unions, or schools, flags make use of the simplest of forms to communicate various cultural, historical or aspirational qualities of the group. This unit asks students to perform basic ethnographic research to better understand the values of a group, and to design symbols — sited on flags – that communicate those values.
 
