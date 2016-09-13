@@ -118,7 +118,7 @@ Grades in D.S. do not emphasize end products, but the necessary work that leads 
 | 20%   | *Contribution* |
 | | Attendance, participation, motivation and personal commitment |
 | 20%   |  *Inquiry* |
-| | Research, research, study, and networking of knowledge and insights |
+| | Research, search, study, and networking of knowledge and insights |
 | 20%   |  *Breadth* |
 | | Range of experience, willingness to experiment, take risks and broaden horizons |
 | 20%   | *Depth* |
