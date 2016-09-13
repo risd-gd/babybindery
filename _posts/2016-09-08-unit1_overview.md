@@ -87,3 +87,7 @@ A single pdf (made from inDesign or Keynote) formatted horizontally (landscape) 
 * 1 summary image of all 25 graphic forms.   
 * Detail shots as needed: Graphic forms with fine detail can also be featured larger scale in additional pages.  
 * Process for 5 graphic forms: Pick 5 of your favorite forms or forms with interesting process and tell us how you did it. Be prepared to casually explain the steps involved, providing visual references as needed. Use the photos or screen shots taken earlier.  
+
+## Lecture slides
+![Slide sample](/img/shape.png)
+[See lecture slides on Google Drive](https://drive.google.com/file/d/0B8F9VKqvC_8IOW44ZUlGd09HcUE/)
