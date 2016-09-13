@@ -28,7 +28,7 @@ Design Studio will take the form of a series of question-based units, each initi
 
 ## DS1 Overview
 
-DS1 pushes students into a variety of directions, introducing critical tools, methods and content areas in the field. Finished projects are not the goal.
+DS1 pushes students into a variety of directions, introducing critical tools, methods and content areas in the field. DS1 assumes no prior knowledge of tools or skills, but is not designed as ‘introductory’. Finished projects are not the goal.
 
 ## DS1 Units
 
