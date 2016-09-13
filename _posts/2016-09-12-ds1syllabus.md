@@ -28,7 +28,7 @@ Design Studio will take the form of a series of question-based units, each initi
 
 ## DS1 Overview
 
-DS1 pushes students into a variety of directions, introducing critical tools, methods and content areas in the field. DS1 assumes no prior knowledge of tools or skills, but is not designed as ‘introductory’. Finished projects are not the intended outcome of DS1. 
+DS1 pushes students into a variety of directions, introducing critical tools, methods and content areas in the field. DS1 assumes no prior knowledge of tools or skills, but is not designed as ‘introductory’. Finished projects are not the intended outcome of DS1.
 
 ## DS1 Units
 
@@ -126,7 +126,7 @@ Grades in D.S. do not emphasize end products, but the necessary work that leads 
 | 20%  | *Finish* |
 | | Demonstration of skills in craft, visual design, presentation and communication |
 
-
+<div class="forcebreak"></div>
 
 ## Etiquette
 
