@@ -53,7 +53,7 @@ In engaging with the world around us, and our routine to “make sense” out of
 
 #### How can we use symbols to unify a group?
 
-The creation and appropriation of symbols to create meaning is an important part of a designer’s toolset – whether on a flag, website, emblem, logo or other context. This unit will take a close look at flags as an example of how symbols can connect (or distance) a group of people. Whether for nations, towns, labor unions, or schools, flags make use of the simplest of forms to communicate various cultural, historical or aspirational qualities of the group. This unit asks students to perform basic ethnographic research to better understand the values of a group, and to design symbols — sited on flags – that communicate those values.
+The creation and appropriation of symbols to create meaning is an important part of a designer’s toolset – whether on a flag, website, emblem, logo or other context. This unit will take a close look at flags as an example of how symbols can connect (or distance) a group of people. Whether for nations, towns, labor unions, or schools, flags make use of simple forms to communicate cultural, historical or aspirational qualities of the group. This unit asks students to perform basic ethnographic research to better understand the values of a group, and to design symbols — sited on flags – that communicate those values.
 
 ### Unit 04	Thomas Wedell
 
@@ -63,8 +63,7 @@ One of the main concepts necessary to understanding the design process is the us
 
 In the expanded world of graphic design, time plays a major role. Not only in how we engage in the design of an exhibit or screen based project, but also in the considerations a designer must build into two-dimensional “fixed” surfaces, such as signs, books, posters, and charts.
 
-The graphic designer today must learn to master the art of pacing. How a viewer encounters information in a specific sequence and the pace at which that information is viewed, is one of the basic elements of communication. The order in which ideas
-are accessed is at the essence of any design project.
+The graphic designer today must learn to master the art of pacing. How a viewer encounters information in a specific sequence and the pace at which that information is viewed, is one of the basic elements of communication. The order in which ideas are accessed is at the essence of any design project.
 
 
 ### Unit 05	James Goggin
