@@ -8,6 +8,7 @@ blockquote, .default ul { margin-left: 10vw; }
 .post-meta { white-space: nowrap; }
 @media print {
   .sheet { background: none; }
+  body { background: none; }
 }
 
 
