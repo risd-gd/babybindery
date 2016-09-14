@@ -24,6 +24,8 @@ In this assignment we’ll use the basic structures of language to lead an inter
 • develop a distinct visual voice  
 • practice transparency of process & generosity with creative methods
 
+![Foam](/img/foam.jpg)
+
 ### PART 1:   
 **Photo Hunt for Form. 1 hour**. **During Class.**  
 >Shoot a minimum of 10 photos for each of the following categories.  
@@ -36,6 +38,8 @@ In this assignment we’ll use the basic structures of language to lead an inter
 *Shoot Quickly!!!* Don’t belabor the creation of these photos, you will be transforming them later. You are hunting for potential. Look for the inspiring, the beautiful, the curious, anything the prompts a graphic translation. Speedily capture what’s you see and start looking for the next opportunity to photograph. Seek diversity in your collection of images. These are your sources to work from later, take as many pictures as possible within the allotted time.
 
 Return to class and prep for a casual, gallery style, laptop sharing.
+
+![Foam](/img/doodles.jpg)
 
 ### PART 2:  
 **Create a collection of 25 grayscale, graphic forms. **  
@@ -71,6 +75,8 @@ You are free to use the materials and tools of your choosing.
 • code: processing, javascript, etc  
 • 3D software: Cinema 4D, Blender, CAD, SketchUp, etc
 
+![Rope](/img/rope.jpg)
+
 **Translation Process:**  
 Look at an individual element in your photo then translate it into a graphic form. There are no strict rules for the process of translation. It might be a simple procedure: Sketch an element, then scan that sketch. Or it might be several steps: Build a structure that mimics an element, then photograph the shadow cast by that structure, bring that shadow into photoshop and refine further, then map that image onto the surface of a digital 3D form. Create physical structures, mark make by hand, manipulate lighting, alter image with code, etc. Anything BUT the original photo can be used as a graphic form in your collection. The idea is to translate and evolve a new visual language distinct from, but inspired by, your original photos. Your voice will reveal itself when greater interpretation is required. Your tools and materials will reveal their influence in the translation process. 
 
@@ -88,7 +94,7 @@ A single pdf (made from inDesign or Keynote) formatted horizontally (landscape) 
 * Detail shots as needed: Graphic forms with fine detail can also be featured larger scale in additional pages.  
 * Process for 5 graphic forms: Pick 5 of your favorite forms or forms with interesting process and tell us how you did it. Be prepared to casually explain the steps involved, providing visual references as needed. Use the photos or screen shots taken earlier.  
 
-## Lecture 
+## Lecture
 
 ![Slide sample](/img/shape.png)
 [See lecture slides on Google Drive](https://drive.google.com/file/d/0B8F9VKqvC_8IOW44ZUlGd09HcUE/)
