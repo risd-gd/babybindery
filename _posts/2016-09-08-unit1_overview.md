@@ -120,3 +120,10 @@ Compositions should be printed and mounted to presentation board. Trim board flu
 Label each with your name and date on the back.
 
 One print will be collected by your teacher for a show in the GD Commons at a later date.
+
+**Lecture: Gestalt + Final Deliverables**  
+https://drive.google.com/a/risd.edu/file/d/0B8F9VKqvC_8ISHlmUGVJNzhDNXc/view?usp=sharing
+
+Mounting Supplies in RISD store:  
+Museum Board Black 4 ply, 32"x40" $19.75
+Double Tack, $7.05
