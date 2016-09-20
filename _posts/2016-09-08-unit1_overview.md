@@ -124,9 +124,9 @@ Label each with your name and date on the back.
 
 One print will be collected by your teacher for a show in the GD Commons at a later date.
 
-### Week 2
+## Week 2
 
-#### Lecture: Gestalt + Final Deliverables
+### Lecture: Gestalt + Final Deliverables
 
 ![Slide sample](/img/gestalt.png)
 [See lecture slides on Google Drive](https://drive.google.com/a/risd.edu/file/d/0B8F9VKqvC_8ISHlmUGVJNzhDNXc/view)
