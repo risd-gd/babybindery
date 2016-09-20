@@ -127,3 +127,5 @@ https://drive.google.com/a/risd.edu/file/d/0B8F9VKqvC_8ISHlmUGVJNzhDNXc/view?usp
 Mounting Supplies in RISD store:  
 Museum Board Black 4 ply, 32"x40" $19.75
 Double Tack, $7.05
+
+ 
