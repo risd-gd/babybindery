@@ -19,9 +19,4 @@ markdown: kramdown
 page_width: "8.5in"
 page_height: "11in"
 num_pages: 100
-<<<<<<< HEAD
 content_types: [1, 2, 3, 4, 5, etc]
-=======
-content_types: [conversation, image, text, other] 
-# note that if you have a multi-word content type to wrap it in quotes. This is not necessary in your post files, however.
->>>>>>> thedesignoffice/master
