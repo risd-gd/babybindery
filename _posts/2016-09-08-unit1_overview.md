@@ -105,8 +105,8 @@ Create 5 new compositions.
 10″× 10″
 Black, white, & 1 color. No rules for color application.
 
-Each composition should be based on one of the following gestalt principles of perceptual organization.
-**Demonstrate:**
+Each composition should be based on one of the following gestalt principles of perceptual organization.  
+**Demonstrate:**  
 • Similarity  
 • Continuation  
 • Closure  
