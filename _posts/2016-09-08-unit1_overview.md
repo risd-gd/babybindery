@@ -101,9 +101,12 @@ A single pdf (made from inDesign or Keynote) formatted horizontally (landscape) 
 
 **DELIVERABLES Due Week 3 / Sept 27:**
 **5 Compositions**  
-Create 5 new compositions.
-10″× 10″
-Black, white, & 1 color. No rules for color application.
+Revisit your 25 studies and look at them with fresh eyes, through these five gestalt principles of similarity, continuation, closure, proximity, figure/ground.
+
+Create 5 new compositions using the 25 studies as a kit.  
+
+10″ × 10″. Black, white, & 1 color. No rules for color applications.
+Each composition should be based on one of the following gestalt principles of perceptual organization.
 
 Each composition should be based on one of the following gestalt principles of perceptual organization.  
 **Demonstrate:**  
@@ -116,4 +119,4 @@ Each composition should be based on one of the following gestalt principles of p
 Compositions should be printed and mounted to presentation board. Trim board flush with edge of the print.
 Label each with your name and date on the back.
 
-One print will be collected by your teacher for a show in the Commons at a later date.
+One print will be collected by your teacher for a show in the GD Commons at a later date.
