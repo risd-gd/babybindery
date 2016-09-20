@@ -122,7 +122,7 @@ Label each with your name and date on the back.
 - Museum Board Black 4 ply, 32"x40" $19.75
 - Double Tack, $7.05
 
-One print will be collected by your teacher for a show in the GD Commons at a later date.
+One print will be collected by your teacher for a show in the GD Commons at a later date. 
 
 ## Week 2
 
