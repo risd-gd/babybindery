@@ -118,17 +118,15 @@ Each composition should be based on one of the following gestalt principles of p
 
 Compositions should be printed and mounted to presentation board. Trim board flush with edge of the print.
 Label each with your name and date on the back.
+- Mounting Supplies in RISD store:  
+- Museum Board Black 4 ply, 32"x40" $19.75
+- Double Tack, $7.05
 
 One print will be collected by your teacher for a show in the GD Commons at a later date.
 
 ### Week 2
 
-**Lecture: Gestalt + Final Deliverables**  
+#### Lecture: Gestalt + Final Deliverables
 
 ![Slide sample](/img/gestalt.png)
 [See lecture slides on Google Drive](https://drive.google.com/a/risd.edu/file/d/0B8F9VKqvC_8ISHlmUGVJNzhDNXc/view)
-
-
-Mounting Supplies in RISD store:  
-Museum Board Black 4 ply, 32"x40" $19.75
-Double Tack, $7.05
