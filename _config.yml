@@ -8,7 +8,7 @@
 # Site settings
 title: Design Studio 2016–18
 email: john@thedesignoffice.org
-description: Website for Design Studio, a required course in RISD Graphic Design
+description: "Website for Design Studio, a required course in RISD Graphic Design"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ds1618.risd.gd" # the base hostname & protocol for your site
 twitter_username:
@@ -22,5 +22,6 @@ num_pages: 100
 <<<<<<< HEAD
 content_types: [1, 2, 3, 4, 5, etc]
 =======
-content_types: ["conversation", image, text, other] # note that if you have a multi-word content type to wrap it in quotes. This is not necessary in your post files, however.
+content_types: [conversation, image, text, other] 
+# note that if you have a multi-word content type to wrap it in quotes. This is not necessary in your post files, however.
 >>>>>>> thedesignoffice/master
