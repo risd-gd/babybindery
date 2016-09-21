@@ -87,6 +87,11 @@ Pursue more than 25 studies, you’ll narrow and refine later. Start fast, creat
 **Homework**  
 Now is the time for editing. Review your source photos for new opportunities and assess your work from class. Notice themes and similarities, consider the diversity of your in process collection. When narrowing down your collection, seek contrast of structure, scale, weight, line, density, mass, simplicity, chaos, etc. Select the strongest forms for clean up and refinement. Continue developing new forms to flesh out your collection, always looking to your source photos as a starting point. Work on new forms by hand, digitally, or a mix of the two.
 
+### Lecture
+
+![Slide sample](/img/shape.png)
+[See lecture slides on Google Drive](https://drive.google.com/file/d/0B8F9VKqvC_8IOW44ZUlGd09HcUE/)
+
 ### Due Next Week, Sept 20:
 A single pdf (made from inDesign or Keynote) formatted horizontally (landscape) with:
 
@@ -94,11 +99,6 @@ A single pdf (made from inDesign or Keynote) formatted horizontally (landscape) 
 * 1 summary image of all 25 graphic forms.   
 * Detail shots as needed: Graphic forms with fine detail can also be featured larger scale in additional pages.  
 * Process for 5 graphic forms: Pick 5 of your favorite forms or forms with interesting process and tell us how you did it. Be prepared to casually explain the steps involved, providing visual references as needed. Use the photos or screen shots taken earlier.  
-
-### Lecture
-
-![Slide sample](/img/shape.png)
-[See lecture slides on Google Drive](https://drive.google.com/file/d/0B8F9VKqvC_8IOW44ZUlGd09HcUE/)
 
 
 ## Week 2
