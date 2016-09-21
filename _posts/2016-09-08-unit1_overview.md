@@ -26,7 +26,9 @@ In this assignment we’ll use the basic structures of language to lead an inter
 
 ![Foam](/img/foam.jpg)
 
-### PART 1:   
+## Week 1
+
+### PART 1   
 **Photo Hunt for Form. 1 hour**. **During Class.**  
 >Shoot a minimum of 10 photos for each of the following categories.  
 • Shape  
@@ -41,7 +43,7 @@ Return to class and prep for a casual, gallery style, laptop sharing.
 
 ![Foam](/img/doodles.jpg)
 
-### PART 2:  
+### PART 2  
 **Create a collection of 25 grayscale, graphic forms. **  
 You’ll now translate your photos into graphic form using a variety of materials and tools. Your final collection will be digital, but you’ll start with physical studies. Begin in class, then continue the process on your own.
 
@@ -94,7 +96,7 @@ A single pdf (made from inDesign or Keynote) formatted horizontally (landscape) 
 * Detail shots as needed: Graphic forms with fine detail can also be featured larger scale in additional pages.  
 * Process for 5 graphic forms: Pick 5 of your favorite forms or forms with interesting process and tell us how you did it. Be prepared to casually explain the steps involved, providing visual references as needed. Use the photos or screen shots taken earlier.  
 
-## Lecture
+### Lecture
 
 ![Slide sample](/img/shape.png)
 [See lecture slides on Google Drive](https://drive.google.com/file/d/0B8F9VKqvC_8IOW44ZUlGd09HcUE/)
@@ -102,13 +104,11 @@ A single pdf (made from inDesign or Keynote) formatted horizontally (landscape) 
 
 ## Week 2
 
-**DELIVERABLES Due Week 3 / Sept 27:**
-**5 Compositions**  
+### Due Week 3 / Sept 27
+
 Revisit your 25 studies and look at them with fresh eyes, through these five gestalt principles of similarity, continuation, closure, proximity, figure/ground.
 
-Create 5 new compositions using the 25 studies as a kit.  
-
-10″ × 10″. Black, white, & 1 color. No rules for color applications.
+Create 5 new compositions using the 25 studies as a kit. 10″ × 10″. Black, white, & 1 color. No rules for color applications.
 Each composition should be based on one of the following gestalt principles of perceptual organization.
 
 Each composition should be based on one of the following gestalt principles of perceptual organization.  
@@ -125,7 +125,7 @@ Label each with your name and date on the back.
 - Museum Board Black 4 ply, 32"x40" $19.75
 - Double Tack, $7.05
 
-One print will be collected by your teacher for a show in the GD Commons at a later date. 
+One print will be collected by your teacher for a show in the GD Commons at a later date.
 
 ### Lecture: Gestalt + Final Deliverables
 
