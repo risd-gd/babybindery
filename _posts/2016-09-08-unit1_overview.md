@@ -99,6 +99,9 @@ A single pdf (made from inDesign or Keynote) formatted horizontally (landscape) 
 ![Slide sample](/img/shape.png)
 [See lecture slides on Google Drive](https://drive.google.com/file/d/0B8F9VKqvC_8IOW44ZUlGd09HcUE/)
 
+
+## Week 2
+
 **DELIVERABLES Due Week 3 / Sept 27:**
 **5 Compositions**  
 Revisit your 25 studies and look at them with fresh eyes, through these five gestalt principles of similarity, continuation, closure, proximity, figure/ground.
@@ -123,8 +126,6 @@ Label each with your name and date on the back.
 - Double Tack, $7.05
 
 One print will be collected by your teacher for a show in the GD Commons at a later date. 
-
-## Week 2
 
 ### Lecture: Gestalt + Final Deliverables
 
