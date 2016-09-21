@@ -87,8 +87,7 @@ Pursue more than 25 studies, you’ll narrow and refine later. Start fast, creat
 **Homework**  
 Now is the time for editing. Review your source photos for new opportunities and assess your work from class. Notice themes and similarities, consider the diversity of your in process collection. When narrowing down your collection, seek contrast of structure, scale, weight, line, density, mass, simplicity, chaos, etc. Select the strongest forms for clean up and refinement. Continue developing new forms to flesh out your collection, always looking to your source photos as a starting point. Work on new forms by hand, digitally, or a mix of the two.
 
-**DELIVERABLES Due Next Week, Sept 20:**  
-**Prep the following for projected presentation next week:**  
+### Due Next Week, Sept 20:
 A single pdf (made from inDesign or Keynote) formatted horizontally (landscape) with:
 
 * Cover page with your name, date, Unit 1: How can you translate what you see into a graphic language?
