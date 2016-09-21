@@ -95,10 +95,10 @@ Now is the time for editing. Review your source photos for new opportunities and
 ### Due Next Week, Sept 20:
 A single pdf (made from inDesign or Keynote) formatted horizontally (landscape) with:
 
-* Cover page with your name, date, Unit 1: How can you translate what you see into a graphic language?
-* 1 summary image of all 25 graphic forms.   
-* Detail shots as needed: Graphic forms with fine detail can also be featured larger scale in additional pages.  
-* Process for 5 graphic forms: Pick 5 of your favorite forms or forms with interesting process and tell us how you did it. Be prepared to casually explain the steps involved, providing visual references as needed. Use the photos or screen shots taken earlier.  
+• Cover page with your name, date, Unit 1: How can you translate what you see into a graphic language?
+• 1 summary image of all 25 graphic forms.   
+• Detail shots as needed: Graphic forms with fine detail can also be featured larger scale in additional pages.  
+• Process for 5 graphic forms: Pick 5 of your favorite forms or forms with interesting process and tell us how you did it. Be prepared to casually explain the steps involved, providing visual references as needed. Use the photos or screen shots taken earlier.  
 
 
 ## Week 2
@@ -111,6 +111,7 @@ Create 5 new compositions using the 25 studies as a kit. 10″ × 10″. Black, 
 Each composition should be based on one of the following gestalt principles of perceptual organization.
 
 Each composition should be based on one of the following gestalt principles of perceptual organization.  
+
 **Demonstrate:**  
 • Similarity  
 • Continuation  
@@ -118,11 +119,11 @@ Each composition should be based on one of the following gestalt principles of p
 • Proximity  
 • Figure/Ground
 
-Compositions should be printed and mounted to presentation board. Trim board flush with edge of the print.
-Label each with your name and date on the back.
-- Mounting Supplies in RISD store:  
-- Museum Board Black 4 ply, 32"x40" $19.75
-- Double Tack, $7.05
+Compositions should be printed and mounted to presentation board. Trim board flush with edge of the print. Label each with your name and date on the back.
+
+• Mounting Supplies in RISD store:  
+• Museum Board Black 4 ply, 32"x40" $19.75
+• Double Tack, $7.05
 
 One print will be collected by your teacher for a show in the GD Commons at a later date.
 
