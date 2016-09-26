@@ -23,7 +23,7 @@ how an abstract (non-visual) object like a “word” (a verbal means to represe
 enriched significantly toward a deep sense of poetic insight due to its graphic/visual delivery, and thus
 provide a lasting impression of value for the ideas it holds.
 
-## Learning Objectives:
+## Learning Objectives
 
 • Develop visual sensibilities
 • Learn about “gestalt” principles and their holistic system as “language”
