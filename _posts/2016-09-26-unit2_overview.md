@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Unit 2: Overview & Assignment
+title: 'Unit 2: Overview & Assignment'
 date: 2016-09-26
 content-type: 2
 imgurl: http://johncaserta.com/files/2014/07/IMG_2191-1024x768.jpg
