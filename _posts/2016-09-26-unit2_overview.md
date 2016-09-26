@@ -25,11 +25,11 @@ provide a lasting impression of value for the ideas it holds.
 
 ## Learning Objectives:
 
-— Develop visual sensibilities
-— Learn about “gestalt” principles and their holistic system as “language”
-— Observe the power of the visual to affect the non-visual
-— Develop mind-mapping skills
-— Become aware of the practice to design for experience
+• Develop visual sensibilities
+• Learn about “gestalt” principles and their holistic system as “language”
+• Observe the power of the visual to affect the non-visual
+• Develop mind-mapping skills
+• Become aware of the practice to design for experience
 
 
 ## Week 3
