@@ -12,11 +12,11 @@ author: Tom Ockerse
 
 ## Question: How can the graphic medium *enhance, enrich and deepen* the verbal message?
 
-In our engagement with the world and the routine to “make sense” of complexity, we take for granted the perceptual and holistic principles this interaction involves. Our perception of parts and configurations in a holistic system depends greatly on the use of so-called “gestalt” principles (i.e., similarity, continuity, figure-ground, etc.) and how these serve to communicate.
+In our engagement with the world and the routine to “make sense” of complexity, we take for granted the perceptual and **holistic principles** this interaction involves. Our perception of parts and configurations in a holistic system depends greatly on the use of so-called “gestalt” principles (i.e., similarity, continuity, figure-ground, etc.) and how these serve to communicate.
 
-Since graphic design presents ideas primarily via graphic (= visual) means, awareness of these perceptual principles is critical for designers to help their products offer clarity and unity to stimulate user interaction and accessibility, curiosity and interest, inquiry and insight.
+Since graphic design presents ideas primarily via **graphic** (= visual) means, awareness of these perceptual principles is critical for designers to help their products offer clarity and unity to stimulate user interaction and accessibility, curiosity and interest, inquiry and insight.
 
-We will look into this power of graphic design to discover how an abstract (non-visual) object like a “word” (i.e., a verbal means to represent an idea) can be enriched significantly to provide a deep sense of insight and value for the ideas that word holds largely due to its visual delivery.
+We will look into this power of graphic design to discover how an abstract (non-visual) object like a **“word”** (i.e., a verbal means to represent an idea) can be **enriched significantly** to provide a deep sense of insight and value for the ideas **that word holds** largely due to its **visual delivery**.
 
 ## Learning Objectives
 
