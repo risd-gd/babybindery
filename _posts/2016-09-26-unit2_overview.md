@@ -3,7 +3,7 @@ layout: default
 title: 'Unit 2: Overview & Assignment'
 date: 2016-09-26
 content-type: 99
-imgurl: 
+imgurl:
 author: Tom Ockerse
 ---
 
@@ -20,11 +20,11 @@ We will look into this power of graphic design to discover how an abstract (non-
 
 ## Learning Objectives
 
-• Develop visual sensibilities
-• Learn about “gestalt” principles and their holistic system as “language”
-• Observe the power of the visual to affect the non-visual toward its poetic potential.
-• Develop mind-mapping skills
-• Become aware of the practice to design for experience
+* Develop visual sensibilities
+* Learn about “gestalt” principles and their holistic system as “language”
+* Observe the power of the visual to affect the non-visual toward its poetic potential.
+* Develop mind-mapping skills
+* Become aware of the practice to design for experience
 
 
 ## Week 3
