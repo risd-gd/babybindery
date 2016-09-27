@@ -26,6 +26,12 @@ We will look into this power of graphic design to discover how an abstract (non-
 * Develop mind-mapping skills
 * Become aware of the practice to design for experience
 
+## Lecture notes
+
+Download the lecture [here](/img/160927_DS1_Unit2_Ockerse_Lecture.pdf).
+
+
+
 
 ## Week 3
 
