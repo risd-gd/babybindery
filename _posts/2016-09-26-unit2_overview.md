@@ -10,24 +10,19 @@ author: Tom Ockerse
 # Unit 02: Tom Ockerse
 
 
-## Question: How can the graphic medium *enhance and enrich* the verbal message?
+## Question: How can the graphic medium *enhance, enrich and deepen* the verbal message?
 
-In our engagement with the world around us, and our routine to “make sense” out of complexity, we
-take for granted the perceptual and holistic principles this interaction involves. That perception of
-parts and configurations as a holistic system, or language, depends greatly on the use of socalled
-“gestalt” principles (i.e., figure-ground, similarity, closure, etc.) and how these serve the
-purpose to communicate. Since graphic design presents ideas primarily via graphic means, awareness
-of these perceptual principles is critical for designers to help their products stimulate clarity and unity,
-curiosity and interest, inquiry and insight. We will look into this power of graphic design to discover
-how an abstract (non-visual) object like a “word” (a verbal means to represent an idea) can be
-enriched significantly toward a deep sense of poetic insight due to its graphic/visual delivery, and thus
-provide a lasting impression of value for the ideas it holds.
+In our engagement with the world and the routine to “make sense” of complexity, we take for granted the perceptual and holistic principles this interaction involves. Our perception of parts and configurations in a holistic system depends greatly on the use of so-called “gestalt” principles (i.e., similarity, continuity, figure-ground, etc.) and how these serve to communicate.
+
+Since graphic design presents ideas primarily via graphic (= visual) means, awareness of these perceptual principles is critical for designers to help their products offer clarity and unity to stimulate user interaction and accessibility, curiosity and interest, inquiry and insight.
+
+We will look into this power of graphic design to discover how an abstract (non-visual) object like a “word” (i.e., a verbal means to represent an idea) can be enriched significantly to provide a deep sense of insight and value for the ideas that word holds largely due to its visual delivery.
 
 ## Learning Objectives
 
 • Develop visual sensibilities
 • Learn about “gestalt” principles and their holistic system as “language”
-• Observe the power of the visual to affect the non-visual
+• Observe the power of the visual to affect the non-visual toward its poetic potential.
 • Develop mind-mapping skills
 • Become aware of the practice to design for experience
 
@@ -36,47 +31,64 @@ provide a lasting impression of value for the ideas it holds.
 
 ### PHASE 1: Find your word
 
-After introducing this unit each participant is given an object (same for all). Return to your studio.
-There, work individually to mind map your identity with the object (what it means to you).*
-After about 15 minutes of mind mapping select a single word from your map (subjectively,
-for whatever reason, or needing to connect to the object).
+After the unit’s introduction each participant receives an object (same for all).
+In your studios first work individually to mind map* your identity with the object
+(what it means or can mean to you).
+After about 15 minutes of mind mapping select a single word from your map
+(for whatever reason or interest you have to connect to the object).
+For the next two weeks work only with this word.
 
-**Note: work only with this word for the next two weeks.**
+**For the next two weeks work only with this word.**
 
 Continue to work in class on the next phase (below) to write/typeset/draw the word.
 
 
 
-### PHASE 2  
+### PHASE 2: Write your word  
 
-Phase 2: experience the writing/typesetting/presenting the word: see, feel, experience the
-letterforms, and tools, materials; inquire into options for “writing”: tools, methods, structures, spacetime,
-dimensions, letter/forms, qualities and gestalt principles.
-Work quickly to explore visual form, and to generate a variety that uncover options.
-Again: use only this one word: its letters, forms, structures, configurations.
-Also: inquire into “gestalt” principles (web sites) and their applications in your work.
+In class: start to “write” (i.e., draw, use typography, build, etc.) your word.
+**NOTE**: do NOT START with the “mind map”!
+>>Rather: start with experiencing the word and its parts
+to visually present the word.
+
+**Use only the word** and **its parts** (letters, and their parts).
+
+Inquire into and experiment with “writing” options:
+>>tools, methods, structures, space-time configurations, media, dimensions,
+color, texture, parts of forms, the inner form, gestalt principles…
+to experience (observe, feel, sense) the visual forms.
+Work quickly to explore, generate and uncover a variety of visual options.
+
+*Important: do NOT add images or words, etc…..!*
 
 
-### PHASE 3
+### PHASE 3: mind map the meaning of your word
 
-After your studies of visual forms *explore the meaning of your word* via a NEW
-mind map; i.e., define an expanded sense and depth of meaning that is *of interests to you*.
+After your studies of visual forms explore the meaning of your word
+this time via a **NEW mind map** to expand your awareness and depth of meaning.
+In this process also note what is **of interests to you** and why.
 
-### PHASE 4
 
-Then (still only *using ONLY the word*) continue to explore how the visual means can
-embed the meaning of interest to you into the word’s graphic presentation via: *visual qualities
-for its elements* (letter/forms), their per/**form**/ance, and the experience others can have with it.
-Begin in simple ways. Write the word (with an adjective in mind) and search to harmonize meaning of
-the verbal and visual. Consider actions, visual expressions, configurations of parts, gestalt principles,
-etc.
+### PHASE 4: Explore how the visual can embed meaning
 
-At the start of next week’s class present your ideas and your process for inquiry in an organized fashion via in a quick, efficient method to help the group get into the depth of your work, the value of your search, and appreciate the results.
+Using ONLY the word continue to explore how the visual can embed meaning into the word’s graphic presentation:
 
-### PHASE 5
+>>perceptual/gestalt qualities for its elements
+(letter/forms, parts and wholes, spaces between, volume, etc.);
+their separate and relational per/form/ance,
+and the experience others could have with the word.
 
-After reviews continue to work in class on the next phase to further experiment with the means for your word to represent a depth of meaning and heightened (poetic) potential. Work to optimize results to truly invite others to experience the word for its most meaningful, poetic potential.
+Begin to explore meaning in simple ways:
 
-**Reflect**: during each week’s process take pause to reflect. Make written notes. Become aware of
-your curiosities, interests, and questions for inquiry. Especially note the many ways the visual
-implicates
+>>to write the word with an adjective in mind, and see how this influences
+your actions and decisions for visual forms, structures and expressions.
+
+Keep an open mind to allow the visual search suggest insight into meaning options.
+
+Search to harmonize meaning of concepts via visual means.
+
+Consider: actions, visual expressions, configurations of parts, installation and placement, user interaction/experience (UI/UX), etc.
+
+
+*DUE October 4: Phases 1-4*
+In class present your ideas and process of inquiry. Do so in an organized fashion (digital and print) to efficiently share with the class the breadth and depth of your work and value of your search to help them appreciate the results.
