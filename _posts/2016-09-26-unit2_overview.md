@@ -2,7 +2,7 @@
 layout: default
 title: 'Unit 2: Overview & Assignment'
 date: 2016-09-26
-content-type: 99
+content-type: 2
 imgurl:
 author: Tom Ockerse
 ---
