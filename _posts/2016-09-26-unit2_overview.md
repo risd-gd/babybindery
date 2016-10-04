@@ -68,7 +68,7 @@ Work quickly to explore, generate and uncover a variety of visual options.
 *Important: do NOT add images or words, etc…..!*
 
 
-### PHASE 3: mind map the meaning of your word
+### PHASE 3: Mind map the meaning of your word
 
 After your studies of visual forms explore the meaning of your word
 this time via a **NEW mind map** to expand your awareness and depth of meaning.
