@@ -33,7 +33,7 @@ We will look into this power of graphic design to discover how an abstract (non-
 
 
 
-## Week 3
+## Week 1  (September 27)
 
 ### PHASE 1: Find your word
 
@@ -100,6 +100,7 @@ Consider: actions, visual expressions, configurations of parts, installation and
 In class present your ideas and process of inquiry. Do so in an organized fashion (digital and print) to efficiently share with the class the breadth and depth of your work and value of your search to help them appreciate the results.
 
 
+## Week 2 (October 4)
 
 
 ### PHASE 5: Drive the poetic potential for your word
@@ -111,4 +112,3 @@ Final product of optimized results
 
 Also: a formal presentation of your process for inquiry and experiments to let the class
 become informed and appreciate the value of your inquiries.
-________________________________________________________________________
