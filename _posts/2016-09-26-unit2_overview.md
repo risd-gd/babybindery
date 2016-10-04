@@ -96,8 +96,7 @@ Search to harmonize meaning of concepts via visual means.
 Consider: actions, visual expressions, configurations of parts, installation and placement, user interaction/experience (UI/UX), etc.
 
 
-*DUE October 4: Phases 1-4*
->> In class present your ideas and process of inquiry. Do so in an organized fashion (digital and print) to efficiently share with the class the breadth and depth of your work and value of your search to help them appreciate the results.
+**DUE October 4: Phases 1-4** In class present your ideas and process of inquiry. Do so in an organized fashion (digital and print) to efficiently share with the class the breadth and depth of your work and value of your search to help them appreciate the results.
 
 
 ## Week 2 (October 4)
@@ -107,6 +106,4 @@ Consider: actions, visual expressions, configurations of parts, installation and
 
 After class reviews continue to work in class on Phase 5, to further experiment with the means that can represent a depth of meaning for your word, and especially heighten the word’s (poetic) potential. In other words: optimize results. Consider the “ui/ux” aspects of the product toward this “poetic” end: how the means invite others to access, interact with, and experience the word toward its most meaningful, poetic potential.
 
-*DUE October 11: Phase 5*
->>Final product of optimized results and a formal presentation of your process for inquiry and experiments to let the class
-become informed and appreciate the value of your inquiries.
+**DUE October 11: Phase 5** Final product of optimized results and a formal presentation of your process for inquiry and experiments to let the class become informed and appreciate the value of your inquiries.
