@@ -70,7 +70,7 @@ Research is part of the design process, and can be done in creative and unique w
 * [IDEO method cards](http://www.gillianhayes.com/Inf231F12/wp-content/uploads/2012/10/IDEOMethodCards.pdf)
 
 
-*Flag design*
+*Material/Contextual Research*
 
 * [Good Flag, Bad Flag, North American Vexillogical Association](http://www.metisnation.org/media/376268/gfbf_final_web.pdf)
 *  [Designing a good flag](http://99percentinvisible.org/episode/vexillonaire/)
