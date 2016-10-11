@@ -2,7 +2,7 @@
 layout: default
 title: 'Unit 3: Overview & Assignment'
 date: 2016-10-11
-content-type: 99
+content-type: 3
 imgurl: /img/question-XL-anim.gif
 author: John Caserta
 ---
