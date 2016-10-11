@@ -55,53 +55,29 @@ Research is part of the design process, and can be done in creative and unique w
 
 ## Lecture Notes
 
-Lecture References below can be viewed here:
-https://drive.google.com/drive/folders/0BzGo6I72eF2HcENNVDZ4NHE3bWM?usp=sharing
+[Lecture References below can be viewed here](https://drive.google.com/drive/folders/0BzGo6I72eF2HcENNVDZ4NHE3bWM?usp=sharing)
+
 
 *Ethnographic research*
 
 * Georges Perec: An Attempt at Exhausting a Place in Paris
 * Bill Moggridge on People
 * Norman Potter. What is a designer “Asking Questions”
-* IDEO method cards are here: http://www.gillianhayes.com/Inf231F12/wp-content/uploads/2012/10/IDEOMethodCards.pdf
+* [IDEO method cards](http://www.gillianhayes.com/Inf231F12/wp-content/uploads/2012/10/IDEOMethodCards.pdf)
 
 
 *Flag design*
 
-* Good Flag, Bad Flag, North American Vexillogical Association http://www.metisnation.org/media/376268/gfbf_final_web.pdf
-*  Designing a good flag http://99percentinvisible.org/episode/vexillonaire/
-*  http://99percentinvisible.org/article/vexillology-revisited-fixing-worst-civic-flag-designs-america/
-* John Oliver on New Zealand flag redesign https://www.youtube.com/watch?v=m_2tL--HMIo
-* http://flagtest.nz/
+* [Good Flag, Bad Flag, North American Vexillogical Association](http://www.metisnation.org/media/376268/gfbf_final_web.pdf)
+*  [Designing a good flag](http://99percentinvisible.org/episode/vexillonaire/)
+*  [99% invisible episode](http://99percentinvisible.org/article/vexillology-revisited-fixing-worst-civic-flag-designs-america/)
+* [John Oliver on New Zealand flag redesign](https://www.youtube.com/watch?v=m_2tL--HMIo
+* http://flagtest.nz/)
 
 *Symbols*
 
 * Symbol Sourcebook
 * Scott McCloud on detail/drawings/meaning
-* https://www.google.com/culturalinstitute
-* Heller, Steven. The Swastika: Symbol Beyond Redemption? New York: Allworth Press, 2000.
-* Make your own coat of arms: http://myblazon.com/
-
-
-
-
-
-## Question: rrrr
-
-asdfsdafasdf
-
-## Learning Objectives
-
-* rrrr
-
-## Lecture notes
-
-[Download the lecture here](/img/160927_DS1_Unit2_Ockerse_Lecture.pdf).
-
-
-## Week 1  (October 11)
-
-### PHASE 1: Find your word
-
-rrrrr
-**important.**
+* [Google Cultural Institute](https://www.google.com/culturalinstitute)
+* Heller, Steven. *The Swastika: Symbol Beyond Redemption?* New York: Allworth Press, 2000.
+* [Make your own coat of arms](http://myblazon.com/)
