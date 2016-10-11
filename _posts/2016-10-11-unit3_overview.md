@@ -55,6 +55,10 @@ Research is part of the design process, and can be done in creative and unique w
 
 ## Lecture Notes
 
+![Flag](/img/flag.png)
+
+[Lecture as pdf](https://drive.google.com/file/d/0BzGo6I72eF2HQ2ZJT2k3LUx5UmM)
+
 [Lecture References below can be viewed here](https://drive.google.com/drive/folders/0BzGo6I72eF2HcENNVDZ4NHE3bWM?usp=sharing)
 
 
