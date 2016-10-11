@@ -29,7 +29,7 @@ Research is part of the design process, and can be done in creative and unique w
 
 **For next week**: Produce a keynote of research of what you found, acknowledging each of the three areas. You will work in groups of three, with each person taking on one of the three areas, and combining those findings into one keynote presentation with each other and presenting to the class.
 
-*Material/Formal Research*
+*Material/Contextual Research*
 
 * How are flags made or constructed? What is possible? What is standard?
 * Find flags that you think are successful.
