@@ -75,8 +75,8 @@ Research is part of the design process, and can be done in creative and unique w
 * [Good Flag, Bad Flag, North American Vexillogical Association](http://www.metisnation.org/media/376268/gfbf_final_web.pdf)
 *  [Designing a good flag](http://99percentinvisible.org/episode/vexillonaire/)
 *  [99% invisible episode](http://99percentinvisible.org/article/vexillology-revisited-fixing-worst-civic-flag-designs-america/)
-* [John Oliver on New Zealand flag redesign](https://www.youtube.com/watch?v=m_2tL--HMIo
-* http://flagtest.nz/)
+* [John Oliver on New Zealand flag redesign](https://www.youtube.com/watch?v=m_2tL--HMIo)
+* [Testing flags](http://flagtest.nz/)
 
 *Symbols*
 
