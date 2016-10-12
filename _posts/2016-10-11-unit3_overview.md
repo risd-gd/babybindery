@@ -59,9 +59,10 @@ Research is part of the design process, and can be done in creative and unique w
 **Be sure to sketch and think about the ‘final’ flag as you research.**
 
 
-## Lecture Notes
 
 ![Flag](/img/flag.png)
+
+## Lecture Notes
 
 [Lecture as pdf](https://drive.google.com/file/d/0BzGo6I72eF2HQ2ZJT2k3LUx5UmM)
 
