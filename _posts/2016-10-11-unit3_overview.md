@@ -59,15 +59,16 @@ Research is part of the design process, and can be done in creative and unique w
 
 [Lecture as pdf](https://drive.google.com/file/d/0BzGo6I72eF2HQ2ZJT2k3LUx5UmM)
 
-[Lecture References below can be viewed here](https://drive.google.com/drive/folders/0BzGo6I72eF2HcENNVDZ4NHE3bWM?usp=sharing)
+[Lecture References below can be viewed in the folder](https://drive.google.com/drive/folders/0BzGo6I72eF2HcENNVDZ4NHE3bWM?usp=sharing)
 
 
 *Ethnographic research*
 
-* Georges Perec: An Attempt at Exhausting a Place in Paris
-* Bill Moggridge on People
-* Norman Potter. What is a designer “Asking Questions”
+* ["An Attempt at Exhausting a Place in Paris", Georges Perec ](https://drive.google.com/open?id=0BzGo6I72eF2HMTF0UU9lbl9Xams)
+* [Bill Moggridge on People](https://drive.google.com/open?id=0BzGo6I72eF2HT0Y2RnQ4RVVIbmM)
+* [Norman Potter. What is a designer “Asking Questions”](https://drive.google.com/open?id=0BzGo6I72eF2HX2NWQ2JuUmRHV00)
 * [IDEO method cards](http://www.gillianhayes.com/Inf231F12/wp-content/uploads/2012/10/IDEOMethodCards.pdf)
+* [Additional resources](https://drive.google.com/drive/folders/0BzGo6I72eF2HaXNVNXhKbEZESVE?usp=sharing)
 
 
 *Material/Contextual Research*
@@ -80,8 +81,9 @@ Research is part of the design process, and can be done in creative and unique w
 
 *Symbols*
 
-* Symbol Sourcebook
-* Scott McCloud on detail/drawings/meaning
+* Symbol Sourcebook (in GD Commons)
+* [A design brief for the ages by Tim Maly](https://worksthatwork.com/3/message-to-the-future/share/e8758f8c69f28bb2a0a1ff8d8a91196e)
+* [Scott McCloud on detail/drawings/meaning](https://drive.google.com/open?id=0BzGo6I72eF2HM1QxRUpoRnF4MjQ)
 * [Google Cultural Institute](https://www.google.com/culturalinstitute)
 * Heller, Steven. *The Swastika: Symbol Beyond Redemption?* New York: Allworth Press, 2000.
 * [Make your own coat of arms](http://myblazon.com/)
