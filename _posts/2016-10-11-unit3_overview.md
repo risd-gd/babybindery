@@ -20,6 +20,9 @@ The creation and appropriation of symbols to create meaning is an important part
 * Learn about others and your values
 
 ## Core Assignment:
+
+![Design Center](/img/dc_flag.jpg)
+
 Design a flag to fly at the top of Design Center. This should act as a symbol for the RISD GD Department, the primary tenant of the building.
 
 ### WEEK ONE: Oct. 11 – 18
@@ -27,7 +30,9 @@ Inform yourself about the community for whom the flag represents. What holds the
 
 Research is part of the design process, and can be done in creative and unique ways. This project requires a few types of research: material/contextual research, research into symbols more generally, and ethnographic research (understanding the community being represented/served).
 
-**For next week**: Produce a keynote of research of what you found, acknowledging each of the three areas. You will work in groups of three, with each person taking on one of the three areas, and combining those findings into one keynote presentation with each other and presenting to the class.
+**For next week**: Produce a keynote of research of what you found, acknowledging each of the three areas. You will work in groups of three or four, with each person taking on one of the three areas, and combining those findings into one keynote presentation with each other and presenting to the class.
+
+Work as a group.
 
 *Material/Contextual Research*
 
@@ -40,6 +45,7 @@ Research is part of the design process, and can be done in creative and unique w
 * How have shapes, colors been used to communicate ideas? Propaganda, etc
 * Are there flags or symbols used by other graphic design organizations or departments?
 * What symbols make sense for the content/group more generally
+* Flags
 
 *Ethnographic Research*
 
