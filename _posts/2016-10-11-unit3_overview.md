@@ -19,9 +19,10 @@ The creation and appropriation of symbols to create meaning is an important part
 * Consider how material and context affects form — Learn to work together to accomplish more
 * Learn about others and your values
 
-## Core Assignment:
 
 ![Design Center](/img/dc_flag.jpg)
+
+## Core Assignment:
 
 Design a flag to fly at the top of Design Center. This should act as a symbol for the RISD GD Department, the primary tenant of the building.
 
@@ -32,7 +33,6 @@ Research is part of the design process, and can be done in creative and unique w
 
 **For next week**: Produce a keynote of research of what you found, acknowledging each of the three areas. You will work in groups of three or four, with each person taking on one of the three areas, and combining those findings into one keynote presentation with each other and presenting to the class.
 
-Work as a group.
 
 *Material/Contextual Research*
 
