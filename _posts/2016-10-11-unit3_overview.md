@@ -93,3 +93,11 @@ Research is part of the design process, and can be done in creative and unique w
 * [Google Cultural Institute](https://www.google.com/culturalinstitute)
 * Heller, Steven. *The Swastika: Symbol Beyond Redemption?* New York: Allworth Press, 2000.
 * [Make your own coat of arms](http://myblazon.com/)
+
+
+
+
+### WEEK TWO: OCT 18 – 25
+Design 48 flags, print to plotter (42" x 28") at actual size (flags should be 3 x 4.5"). Do not trim flags, but you may need to put a background shade behind certain flags to see white.
+
+Upload one flag to [flagtest.nz](http://flagtest.nz/) and have open on your laptop for walkabout.
