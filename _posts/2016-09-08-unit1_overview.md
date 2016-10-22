@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Unit 1: Overview, Assignment & Lecture'
+title: 'Unit 1: Overview & Assignment'
 date: 2016-09-13
 content-type: 1
 imgurl: /img/materialstudy1.jpg
