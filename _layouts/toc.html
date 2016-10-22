@@ -20,7 +20,7 @@
           <ul class="child">
           <h3>{{ type }}</h3>
           {{post.category}}
-          {% for post in site.posts %}
+          {% for post in site.posts reversed %}
 
             {% if post.content-type == type %}
             <li class="{{ post.content-type }}">
