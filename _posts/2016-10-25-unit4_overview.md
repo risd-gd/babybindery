@@ -50,7 +50,5 @@ Pick ONE from the following:
 
 ## Readings
 
-[Essay on the Importance of Time. By M. Sanjeeta](https://drive.google.com/open?id=0BzGo6I72eF2HZ2JveUZyUmprbEk)
-
-
-[Notes on the Poetics of Time from: Temporality in Life as Seen Through Literature. By Lawrence Kimmel](https://drive.google.com/open?id=0BzGo6I72eF2HZWlOQmJGWlNMRms)
+* [Essay on the Importance of Time. By M. Sanjeeta](https://drive.google.com/open?id=0BzGo6I72eF2HZ2JveUZyUmprbEk)
+* [Notes on the Poetics of Time from: Temporality in Life as Seen Through Literature. By Lawrence Kimmel](https://drive.google.com/open?id=0BzGo6I72eF2HZWlOQmJGWlNMRms)
