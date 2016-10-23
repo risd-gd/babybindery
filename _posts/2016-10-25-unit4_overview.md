@@ -46,7 +46,6 @@ Pick ONE from the following:
 * How to Iron a Garment With a Steam Iron
 * How to Stretch a Canvas for a Painting
 
-### WEEK ONE: Oct. 25 – Nov. 1
 
 ## Readings
 
