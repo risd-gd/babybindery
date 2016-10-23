@@ -2,7 +2,7 @@
 layout: default
 title: 'Unit 4: Overview & Assignment'
 date: 2016-10-25
-content-type: 4
+content-type: 99
 imgurl: /img/Aspelund_bed_Page_08.png
 author: Tom Wedell
 ---
