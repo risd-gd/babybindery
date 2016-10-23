@@ -20,6 +20,7 @@ is viewed, is one of the basic elements of communication. The order in which ide
 are accessed is at the essence of any design project.
 
 ## Learning objectives
+
 * Gain an understanding of effective editing and how the proper sequencing of information enhances how that information is understood.
 * Develop a critical awareness of time and how it affects the reading of a design.
 * Communicate ideas/thoughts/images to others.
@@ -38,6 +39,7 @@ drawings, or a any combination.
 It is extremely important to adhere to the time limit of two minutes!
 
 Pick ONE from the following:
+
 * How to tie a Bowline Knot
 * How to Make Perfect Hard Boiled Eggs
 * How to tie a Windsor Knot
