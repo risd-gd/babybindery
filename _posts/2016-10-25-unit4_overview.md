@@ -3,7 +3,7 @@ layout: default
 title: 'Unit 4: Overview & Assignment'
 date: 2016-10-25
 content-type: 99
-imgurl: 
+imgurl:
 author: Tom Wedell
 ---
 
@@ -20,12 +20,12 @@ is viewed, is one of the basic elements of communication. The order in which ide
 are accessed is at the essence of any design project.
 
 ## Learning objectives
-— Gain an understanding of effective editing and how the proper sequencing of information enhances how that information is understood.
-— Develop a critical awareness of time and how it affects the reading of a design.
-— Communicate ideas/thoughts/images to others.
-— Understand framing how composition emphasizes meaning.
-— Build basic digital video production skills.
-— Identify and test the properties of time such as rhythm, pacing, and repetition and how they are employed in visual communication.
+* Gain an understanding of effective editing and how the proper sequencing of information enhances how that information is understood.
+* Develop a critical awareness of time and how it affects the reading of a design.
+* Communicate ideas/thoughts/images to others.
+* Understand framing how composition emphasizes meaning.
+* Build basic digital video production skills.
+* Identify and test the properties of time such as rhythm, pacing, and repetition and how they are employed in visual communication.
 
 
 
