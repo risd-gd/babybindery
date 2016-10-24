@@ -65,6 +65,8 @@ Research is part of the design process, and can be done in creative and unique w
 
 [Lecture as pdf](https://drive.google.com/file/d/0BzGo6I72eF2HQ2ZJT2k3LUx5UmM)
 
+[Bookmarks informing lecture](https://www.are.na/john-caserta/flag)
+
 [Lecture References below can be viewed in the folder](https://drive.google.com/drive/folders/0BzGo6I72eF2HcENNVDZ4NHE3bWM?usp=sharing)
 
 
