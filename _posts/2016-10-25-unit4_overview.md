@@ -31,6 +31,7 @@ are accessed is at the essence of any design project.
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/Ejr9KBQzQPM?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+
 ## Core Assignment
 
 From the list of options below, pick one and create a video of two minutes or less that describes how to execute your chosen task without using words or voiceover.
