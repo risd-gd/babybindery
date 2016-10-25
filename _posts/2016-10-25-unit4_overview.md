@@ -29,6 +29,7 @@ are accessed is at the essence of any design project.
 * Identify and test the properties of time such as rhythm, pacing, and repetition and how they are employed in visual communication.
 
 
+<iframe width="640" height="360" src="https://www.youtube.com/embed/Ejr9KBQzQPM?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Core Assignment
 
