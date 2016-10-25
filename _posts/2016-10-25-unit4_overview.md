@@ -40,11 +40,11 @@ It is extremely important to adhere to the time limit of two minutes!
 
 Pick ONE from the following:
 
-* How to tie a Bowline Knot
-* How to Make Perfect Hard Boiled Eggs
-* How to tie a Windsor Knot
-* How to Iron a Garment With a Steam Iron
-* How to Stretch a Canvas for a Painting
+* How to tie a bowline knot
+* How to make perfect hard-boiled eggs
+* How to tie a windsor knot
+* How to iron a garment with a steam iron
+* How to stretch a canvas for a painting
 
 
 ## Readings
