@@ -105,5 +105,9 @@ Design 48 flags, print to plotter (42" x 28") at actual size (flags should be 3 
 Upload one flag to [flagtest.nz](http://flagtest.nz/) and have open on your laptop for walkabout.
 
 
-### WEEK THREE: OCT 18 – 25
-Make one flag using the template provided (coming soon) 22" x 33".
+### WEEK THREE: OCT 25 – NOV 1
+Make one flag printed and trimmed at 22" x 33". Pencil your name lightly on the back. Hand this in on November 1 at the start of class.
+
+Write a caption for the piece (will provide word count) and place onto the Google Doc Shared with you. The caption should mention consider these questions: what does the flag symbolizes (and/or what the individual parts symbolize)? Why would this unify the community and/or how do you predict the public would see the community? (What is your intention?)
+
+Additionally, remember you will be creating a reflective document at the end of the semester. In preparation for this, you should note which of your flags you would like to include in the document. And more importantly, what did you learn about RISD GD, Graphic Design the profession, the Design Center, your own goals/ambitions for your the community? Please list out the research that was instrumental in you forming your designs. What were you trying to communicate? Did some of the visual moves that you came up with begin to inform your ideas?
