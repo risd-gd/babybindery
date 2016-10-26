@@ -49,6 +49,22 @@ Pick ONE from the following:
 * How to stretch a canvas for a painting
 
 
+### VIDEO SPECS
+
+A two minute (or less) video: QuickTime FORMAT (.MOV; H.264; 720p)
+
+Movies should ideally be less than 100MB, with dimensions no larger than 1280 x 720.
+
+Movies larger than 250MB will be rejected.
+
+Movies should follow this naming convention: Student Name_Instructor.mov
+
+This information should also appear on a title card at the beginning of your film.
+Schedule:
+
+FINAL videos given to John Sunderland (3rd floor) on **Monday, Nov. 7th** before 3pm.
+
+
 ## Readings
 
 * [Essay on the Importance of Time. By M. Sanjeeta](https://drive.google.com/open?id=0BzGo6I72eF2HZ2JveUZyUmprbEk)
