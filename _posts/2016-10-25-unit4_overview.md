@@ -31,7 +31,7 @@ are accessed is at the essence of any design project.
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/zvDXlDxMnb4?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-[Lecture Notes](https://dl.dropboxusercontent.com/u/16336106/DS1_Time%20lecture.pdf)
+[Lecture as pdf](https://dl.dropboxusercontent.com/u/16336106/DS1_Time%20lecture.pdf)
 
 ## Core Assignment
 
