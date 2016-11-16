@@ -25,7 +25,7 @@
             {% if post.content-type == type %}
             <li class="{{ post.content-type }}">
               {% if post.imgurl %}<a class="post-link" href="{{ post.url | prepend: site.github.url }}"><img src="{{ post.imgurl }}"></a>{% endif %}
-              <p><a class="post-link" href="{{ post.url | prepend: site.github.url }}"> {{ post.title }}</a></p><p>{{ post.author }} <span class="post-meta agate">{{ post.date | date: "%Y-%m-%d" }}</span></p>
+              <p><a class="post-link" href="{{ post.url | prepend: site.github.url }}"> {{ post.title }}</a><br>{{ post.author }} <span class="post-meta agate">{{ post.date | date: "%Y-%m-%d" }}</span></p>
             <!--   <p>{{post.category}} / {{post.tag}}</p> -->
             </li>
             {% endif %}
