@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Relective Document
+title: Reflective Document
 date: 2016-11-15
 content-type: etc
 author: DS1 team
